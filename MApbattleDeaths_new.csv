@@ -1,0 +1,1062 @@
+;Year;SideA;SideB;No. of Deaths;Location of war
+0;1993;Government of Iran;KDPI;110;Iran, Iraq
+1;1996;Government of Iran;KDPI;27;Iran, Iraq
+2;1990;Government of Iran;KDPI;31;Iran
+3;1989;Government of Philippines;CPP, Military faction (forces of Honasan, Abenina & Zumel);822;Philippines
+4;1990;Government of Philippines;CPP, Military faction (forces of Honasan, Abenina & Zumel);1165;Philippines
+5;1991;Government of Philippines;CPP;1514;Philippines
+6;1992;Government of Philippines;CPP;430;Philippines
+7;1993;Government of Philippines;CPP;99;Philippines
+8;1994;Government of Philippines;CPP;69;Philippines
+9;1995;Government of Philippines;CPP;36;Philippines
+10;1997;Government of Philippines;CPP;32;Philippines
+11;1999;Government of Philippines;CPP;93;Philippines
+12;2000;Government of Philippines;CPP;140;Philippines
+13;2001;Government of Philippines;CPP;97;Philippines
+14;2002;Government of Philippines;CPP;280;Philippines
+15;2003;Government of Philippines;CPP;231;Philippines
+16;2004;Government of Philippines;CPP;270;Philippines
+17;2005;Government of Philippines;CPP;234;Philippines
+18;2006;Government of Philippines;CPP;310;Philippines
+19;2007;Government of Philippines;CPP;132;Philippines
+20;2008;Government of Philippines;CPP;184;Philippines
+21;2009;Government of Philippines;CPP;377;Philippines
+22;2010;Government of Philippines;CPP;258;Philippines
+23;2011;Government of Philippines;CPP;204;Philippines
+24;2012;Government of Philippines;CPP;182;Philippines
+25;2013;Government of Philippines;CPP;165;Philippines
+26;2014;Government of Philippines;CPP;190;Philippines
+27;2015;Government of Philippines;CPP;168;Philippines
+28;1989;Government of India;Government of Pakistan;25;India
+29;1990;Government of India;Government of Pakistan;25;India, Pakistan
+30;1991;Government of India;Government of Pakistan;78;India, Pakistan
+31;1992;Government of India;Government of Pakistan;25;India
+32;1996;Government of India;Government of Pakistan;25;India
+33;1997;Government of India;Government of Pakistan;55;India
+34;1998;Government of India;Government of Pakistan;25;India
+35;1999;Government of India;Government of Pakistan;886;India
+36;2000;Government of India;Government of Pakistan;25;India
+37;2001;Government of India;Government of Pakistan;25;India
+38;2002;Government of India;Government of Pakistan;25;India, Pakistan
+39;2003;Government of India;Government of Pakistan;233;India, Pakistan
+40;2014;Government of India;Government of Pakistan;43;India, Pakistan
+41;2015;Government of India;Government of Pakistan;29;India
+42;1989;Government of Paraguay;Military faction (forces of Andres Rodriguez);150;Paraguay
+43;1989;Government of Myanmar (Burma);KNU;1000;Myanmar (Burma), Thailand
+44;1990;Government of Myanmar (Burma);KNU;393;Myanmar (Burma), Thailand
+45;1991;Government of Myanmar (Burma);KNU;552;Myanmar (Burma)
+46;1992;Government of Myanmar (Burma);KNU;1163;Myanmar (Burma)
+47;1994;Government of Myanmar (Burma);KNU;25;Myanmar (Burma)
+48;1995;Government of Myanmar (Burma);KNU;110;Myanmar (Burma)
+49;1997;Government of Myanmar (Burma);KNU;41;Myanmar (Burma)
+50;1998;Government of Myanmar (Burma);KNU;36;Myanmar (Burma)
+51;2000;Government of Myanmar (Burma);God's Army, KNU;114;Myanmar (Burma), Myanmar (Burma), Thailand
+52;2001;Government of Myanmar (Burma);KNU;36;Myanmar (Burma), Thailand
+53;2002;Government of Myanmar (Burma);KNU;110;Myanmar (Burma)
+54;2003;Government of Myanmar (Burma);KNU;38;Myanmar (Burma)
+55;2004;Government of Myanmar (Burma);KNU;27;Myanmar (Burma)
+56;2005;Government of Myanmar (Burma);KNU;42;Myanmar (Burma)
+57;2006;Government of Myanmar (Burma);KNU;104;Myanmar (Burma)
+58;2007;Government of Myanmar (Burma);KNU;104;Myanmar (Burma)
+59;2008;Government of Myanmar (Burma);KNU;33;Myanmar (Burma), Thailand
+60;2009;Government of Myanmar (Burma);KNU;58;Myanmar (Burma)
+61;2010;Government of Myanmar (Burma);DKBA 5, KNU;121;Myanmar (Burma), Myanmar (Burma), Thailand
+62;2011;Government of Myanmar (Burma);DKBA 5, KNU;334;Myanmar (Burma)
+63;2013;Government of Myanmar (Burma);DKBA 5;41;Myanmar (Burma)
+64;1992;Government of Myanmar (Burma);ABSDF;25;Myanmar (Burma)
+65;1994;Government of Myanmar (Burma);ABSDF;25;Myanmar (Burma)
+66;1990;Government of Myanmar (Burma);ABSDF;25;Myanmar (Burma)
+67;1991;Government of Myanmar (Burma);ABSDF;25;Myanmar (Burma)
+68;1994;Government of Myanmar (Burma);RSO;109;Myanmar (Burma)
+69;1991;Government of Myanmar (Burma);RSO;25;Myanmar (Burma)
+70;1996;Government of Myanmar (Burma);BMA;80;Myanmar (Burma)
+71;1990;Government of Myanmar (Burma);NMSP;112;Myanmar (Burma)
+72;1991;Government of India;PWG;78;India
+73;1992;Government of India;PWG;322;India
+74;1993;Government of India;PWG;182;India
+75;1994;Government of India;PWG;68;India
+76;1996;Government of India;PWG;173;India
+77;1997;Government of India;PWG;84;India
+78;1998;Government of India;PWG;99;India
+79;1999;Government of India;MCC, PWG;126;India
+80;2000;Government of India;CPI-ML-J, MCC, PWG;196;India
+81;2001;Government of India;MCC, PWG;173;India
+82;2002;Government of India;MCC, PWG;179;India
+83;2003;Government of India;MCC, PWG;66;India
+84;2004;Government of India;MCC, PWG;97;India
+85;2005;Government of India;CPI-Maoist;199;India
+86;2006;Government of India;CPI-Maoist;545;India
+87;2007;Government of India;CPI-Maoist;375;India
+88;2008;Government of India;CPI-Maoist;379;India
+89;2009;Government of India;CPI-Maoist;522;India
+90;2010;Government of India;CPI-Maoist;570;India
+91;2011;Government of India;CPI-Maoist;293;India
+92;2012;Government of India;CPI-Maoist;241;India
+93;2013;Government of India;CPI-Maoist;210;India
+94;2014;Government of India;CPI-Maoist;195;India
+95;2015;Government of India;CPI-Maoist;140;India
+96;2009;Government of Yemen (North Yemen);AQAP;94;Yemen (North Yemen)
+97;2010;Government of Yemen (North Yemen);AQAP;175;Yemen (North Yemen)
+98;2011;Government of Yemen (North Yemen);AQAP;1140;Yemen (North Yemen)
+99;2012;Government of Yemen (North Yemen);AQAP;2330;Yemen (North Yemen)
+100;2013;Government of Yemen (North Yemen);AQAP;582;Yemen (North Yemen)
+101;2014;Government of Yemen (North Yemen);AQAP, Ansarallah;1660;Yemen (North Yemen)
+102;2015;Government of Yemen (North Yemen);AQAP, Ansarallah, Forces of Hadi;6532;Saudi Arabia, Yemen (North Yemen), Yemen (North Yemen)
+103;1989;Government of Myanmar (Burma);KIO;194;Myanmar (Burma)
+104;1990;Government of Myanmar (Burma);KIO;25;Myanmar (Burma)
+105;1991;Government of Myanmar (Burma);KIO;25;Myanmar (Burma)
+106;1992;Government of Myanmar (Burma);KIO;25;Myanmar (Burma)
+107;2011;Government of Myanmar (Burma);KIO;209;Myanmar (Burma)
+108;2012;Government of Myanmar (Burma);KIO;702;Myanmar (Burma)
+109;2013;Government of Myanmar (Burma);KIO;125;Myanmar (Burma)
+110;2014;Government of Myanmar (Burma);KIO;83;Myanmar (Burma)
+111;2015;Government of Myanmar (Burma);KIO;140;Myanmar (Burma)
+112;1989;Government of Guatemala;URNG;82;Guatemala
+113;1990;Government of Guatemala;URNG;83;Guatemala
+114;1991;Government of Guatemala;URNG;72;Guatemala
+115;1992;Government of Guatemala;URNG;67;Guatemala
+116;1993;Government of Guatemala;URNG;58;Guatemala
+117;1994;Government of Guatemala;URNG;37;Guatemala
+118;1995;Government of Guatemala;URNG;27;Guatemala
+119;1989;Government of Israel;PFLP, PFLP-GC;54;Israel, Lebanon
+120;1990;Government of Israel;Fatah;29;Israel, Lebanon
+121;1991;Government of Israel;Fatah;28;Israel, Lebanon
+122;1992;Government of Israel;Fatah;33;France, Israel, Lebanon
+123;1993;Government of Israel;Hamas;47;Israel
+124;1994;Government of Israel;Hamas;44;Israel
+125;1995;Government of Israel;PIJ;34;Israel, Malta
+126;1996;Government of Israel;PNA;66;Israel
+127;2000;Government of Israel;Fatah, PNA;77;Israel
+128;2001;Government of Israel;Fatah, Hamas, PFLP, PIJ, PNA;244;Israel
+129;2002;Government of Israel;AMB, Fatah, Hamas, PIJ, PNA;607;Israel
+130;2003;Government of Israel;AMB, Hamas, PIJ;309;Israel
+131;2004;Government of Israel;AMB, Hamas, PIJ;377;Israel, Israel, Syria
+132;2005;Government of Israel;Fatah, Hamas, PIJ;120;Israel
+133;2006;Government of Israel;Fatah, Hamas, PIJ, PRC;328;Israel, Israel, Lebanon
+134;2007;Government of Israel;Fatah, Hamas, PIJ;276;Israel
+135;2008;Government of Israel;Hamas, PIJ;665;Israel
+136;2009;Government of Israel;Hamas, PIJ;682;Israel
+137;2010;Government of Israel;PIJ;27;Israel
+138;2011;Government of Israel;Hamas, PIJ;56;Israel
+139;2012;Government of Israel;Hamas, PIJ;64;Israel
+140;2014;Government of Israel;Hamas, PIJ;1664;Israel
+141;1992;Government of India;NSCN-IM;47;India
+142;1993;Government of India;NSCN-IM;92;India
+143;1994;Government of India;NSCN-IM;60;India
+144;1995;Government of India;NSCN-IM;95;India
+145;1996;Government of India;NSCN-IM;40;India
+146;1997;Government of India;NSCN-IM;37;India
+147;2000;Government of India;NSCN-IM;30;India
+148;1992;Government of Myanmar (Burma);KNPP;404;Myanmar (Burma)
+149;1996;Government of Myanmar (Burma);KNPP;124;Myanmar (Burma)
+150;2005;Government of Myanmar (Burma);KNPP;35;Myanmar (Burma), Thailand
+151;1991;Government of Iraq;SCIRI;237;Iraq
+152;1992;Government of Iraq;SCIRI;280;Iraq
+153;1993;Government of Iraq;SCIRI;75;Iraq
+154;1994;Government of Iraq;SCIRI;25;Iraq
+155;1995;Government of Iraq;SCIRI;325;Iraq
+156;1996;Government of Iraq;SCIRI;42;Iraq
+157;2004;Government of Iraq;Ansar al-Islam, IS, al-Mahdi Army;4094;Iraq
+158;2005;Government of Iraq;Ansar al-Islam, IS, RJF;2608;Iraq
+159;2006;Government of Iraq;Ansar al-Islam, IS, RJF;3934;Iraq
+160;2007;Government of Iraq;Ansar al-Islam, IS, RJF, al-Mahdi Army;2212;Iraq
+161;2008;Government of Iraq;IS, al-Mahdi Army;2112;Iraq
+162;2009;Government of Iraq;IS;1036;Iraq
+163;2010;Government of Iraq;IS;1015;Iraq
+164;2011;Government of Iraq;Ansar al-Islam, IS;864;Iraq
+165;2012;Government of Iraq;IS;565;Iraq
+166;2013;Government of Iraq;IS;1870;Iraq
+167;2014;Government of Iraq;IS;12929;Iraq, Syria
+168;2015;Government of Iraq;IS;11547;France, Iraq, Syria, Libya
+169;1989;Government of Lebanon;Forces of Michel Aoun, Lebanese Forces;704;Lebanon
+170;1990;Government of Lebanon;Forces of Michel Aoun;700;Lebanon
+171;1989;Government of Laos;LRM;30;Laos
+172;1990;Government of Laos;LRM;249;Laos
+173;1993;Government of Myanmar (Burma);MTA;130;Myanmar (Burma)
+174;1994;Government of Myanmar (Burma);MTA;526;Myanmar (Burma)
+175;1995;Government of Myanmar (Burma);MTA;174;Myanmar (Burma)
+176;1996;Government of Myanmar (Burma);RCSS;25;Myanmar (Burma)
+177;1997;Government of Myanmar (Burma);RCSS;152;Myanmar (Burma)
+178;1998;Government of Myanmar (Burma);RCSS;25;Myanmar (Burma)
+179;1999;Government of Myanmar (Burma);RCSS;25;Myanmar (Burma)
+180;2000;Government of Myanmar (Burma);RCSS;69;Myanmar (Burma)
+181;2001;Government of Myanmar (Burma);RCSS;117;Myanmar (Burma), Thailand
+182;2002;Government of Myanmar (Burma);RCSS;184;Myanmar (Burma), Thailand
+183;2005;Government of Myanmar (Burma);RCSS;27;Myanmar (Burma)
+184;2006;Government of Myanmar (Burma);RCSS;48;Myanmar (Burma)
+185;2007;Government of Myanmar (Burma);RCSS;29;Myanmar (Burma)
+186;2008;Government of Myanmar (Burma);RCSS;31;Myanmar (Burma)
+187;2009;Government of Myanmar (Burma);RCSS;52;Myanmar (Burma)
+188;2010;Government of Myanmar (Burma);RCSS;36;Myanmar (Burma)
+189;2011;Government of Myanmar (Burma);RCSS, SSPP;170;Myanmar (Burma)
+190;2013;Government of Myanmar (Burma);RCSS, SSPP;83;Myanmar (Burma)
+191;2015;Government of Myanmar (Burma);SSPP;75;Myanmar (Burma)
+192;2013;Government of DR Congo (Zaire);Kata Katanga;94;DR Congo (Zaire)
+193;2014;Government of DR Congo (Zaire);Kata Katanga;59;DR Congo (Zaire)
+194;1989;Government of Ethiopia;EPRDF, Military faction (forces of Amsha Desta and Merid Negusie);18403;Ethiopia
+195;1990;Government of Ethiopia;EPRDF;18985;Ethiopia
+196;1991;Government of Ethiopia;EPRDF, Military faction (Harar garrison);4520;Ethiopia
+197;1996;Government of Nepal;CPN-M;44;Nepal
+198;1997;Government of Nepal;CPN-M;40;Nepal
+199;1998;Government of Nepal;CPN-M;250;Nepal
+200;1999;Government of Nepal;CPN-M;156;Nepal
+201;2000;Government of Nepal;CPN-M;268;Nepal
+202;2001;Government of Nepal;CPN-M;429;Nepal
+203;2002;Government of Nepal;CPN-M;3947;Nepal
+204;2003;Government of Nepal;CPN-M;1341;Nepal
+205;2004;Government of Nepal;CPN-M;1880;Nepal
+206;2005;Government of Nepal;CPN-M;1104;Nepal
+207;2006;Government of Nepal;CPN-M;457;Nepal
+208;1989;Government of Iraq;KDP, PUK;50;Iraq
+209;1990;Government of Iraq;KDP, PUK;94;Iraq
+210;1991;Government of Iraq;KDP, PUK;1247;Iraq
+211;1992;Government of Iraq;PUK;26;Iraq
+212;1995;Government of Iraq;PUK;262;Iraq
+213;1996;Government of Iraq;PUK;356;Iran, Iraq
+214;1989;Government of Ethiopia;EPLF;5930;Ethiopia
+215;1990;Government of Ethiopia;EPLF;30633;Ethiopia
+216;1991;Government of Ethiopia;EPLF;6907;Ethiopia
+217;1992;Government of Venezuela;Military faction (forces of Hugo Chávez);144;Venezuela
+218;1996;Government of DR Congo (Zaire);AFDL;1304;DR Congo (Zaire)
+219;1997;Government of DR Congo (Zaire);AFDL;4457;DR Congo (Zaire)
+220;1998;Government of DR Congo (Zaire);MLC, RCD;3268;DR Congo (Zaire)
+221;1999;Government of DR Congo (Zaire);MLC, RCD;2953;DR Congo (Zaire)
+222;2000;Government of DR Congo (Zaire);MLC, RCD;1294;DR Congo (Zaire)
+223;2001;Government of DR Congo (Zaire);RCD;454;DR Congo (Zaire)
+224;2006;Government of DR Congo (Zaire);CNDP;182;DR Congo (Zaire), Uganda
+225;2007;Government of DR Congo (Zaire);CNDP;516;DR Congo (Zaire)
+226;2008;Government of DR Congo (Zaire);CNDP;486;DR Congo (Zaire)
+227;2011;Government of DR Congo (Zaire);PARC-FAAL;41;DR Congo (Zaire)
+228;2012;Government of DR Congo (Zaire);M23, PARC-FAAL;685;DR Congo (Zaire), DR Congo (Zaire), Rwanda
+229;2013;Government of DR Congo (Zaire);APCLS, Forces of Paul Joseph Mukungubila, M23;1379;DR Congo (Zaire), DR Congo (Zaire), Rwanda
+230;2014;Government of DR Congo (Zaire);APCLS, PARC-FAAL;79;DR Congo (Zaire)
+231;1991;Government of Burundi;Palipehutu;272;Burundi
+232;1992;Government of Burundi;Palipehutu;61;Burundi
+233;1994;Government of Burundi;CNDD;56;Burundi
+234;1995;Government of Burundi;CNDD;254;Burundi
+235;1996;Government of Burundi;CNDD;531;Burundi
+236;1997;Government of Burundi;CNDD, Frolina, Palipehutu-FNL;639;Burundi
+237;1998;Government of Burundi;CNDD, CNDD-FDD, Palipehutu-FNL;621;Burundi
+238;1999;Government of Burundi;CNDD-FDD, Palipehutu-FNL;524;Burundi
+239;2000;Government of Burundi;CNDD-FDD, Palipehutu-FNL;1348;Burundi
+240;2001;Government of Burundi;CNDD-FDD, Palipehutu-FNL;1182;Burundi
+241;2002;Government of Burundi;CNDD-FDD, Palipehutu-FNL;1114;Burundi, Burundi, DR Congo (Zaire)
+242;2003;Government of Burundi;CNDD-FDD, Palipehutu-FNL;972;Burundi
+243;2004;Government of Burundi;Palipehutu-FNL;387;Burundi
+244;2005;Government of Burundi;Palipehutu-FNL;286;Burundi
+245;2006;Government of Burundi;Palipehutu-FNL;141;Burundi
+246;2008;Government of Burundi;Palipehutu-FNL;201;Burundi
+247;2015;Government of Burundi;Forebu, Military faction (forces of Godefroid Niyombare);133;Burundi
+248;1989;Government of Chad;Islamic Legion, MOSANAT, Revolutionary Forces of 1 April;315;Chad, Chad, Sudan, Sudan
+249;1990;Government of Chad;Islamic Legion, MPS;1352;Chad, Chad, Sudan
+250;1991;Government of Chad;MDD, Military faction (forces of Maldoum Bada Abbas);68;Chad
+251;1992;Government of Chad;CNR, CSNPD, FNT, MDD;899;Chad
+252;1993;Government of Chad;CNR, CSNPD, FNT, MDD;120;Chad
+253;1994;Government of Chad;CNR, CSNPD, FNT;161;Chad
+254;1997;Government of Chad;FARF, MDD;97;Chad
+255;1998;Government of Chad;FARF;34;Chad
+256;1999;Government of Chad;MDJT;394;Chad
+257;2000;Government of Chad;MDJT;989;Chad
+258;2001;Government of Chad;MDJT;226;Chad
+259;2002;Government of Chad;MDJT;294;Chad
+260;2003;Government of Chad;MDJT;37;Chad
+261;2005;Government of Chad;FUCD;100;Chad
+262;2006;Government of Chad;FUCD, RAFD, UFDD;1250;Chad
+263;2007;Government of Chad;UFDD;69;Chad
+264;2008;Government of Chad;AN;991;Chad
+265;2009;Government of Chad;UFR;131;Chad
+266;2010;Government of Chad;PFNR;42;Chad, Sudan
+267;1989;Government of Colombia;ELN, EPL, FARC;236;Colombia
+268;1990;Government of Colombia;ELN, EPL, FARC;474;Colombia
+269;1991;Government of Colombia;ELN, FARC;725;Colombia
+270;1992;Government of Colombia;ELN, FARC;758;Colombia
+271;1993;Government of Colombia;ELN, FARC;195;Colombia
+272;1994;Government of Colombia;ELN, FARC;1123;Colombia
+273;1995;Government of Colombia;ELN, FARC;823;Colombia
+274;1996;Government of Colombia;ELN, FARC;1192;Colombia
+275;1997;Government of Colombia;ELN, FARC;554;Colombia
+276;1998;Government of Colombia;ELN, FARC;938;Colombia
+277;1999;Government of Colombia;ELN, FARC;933;Colombia
+278;2000;Government of Colombia;ELN, FARC;1017;Colombia
+279;2001;Government of Colombia;ELN, FARC;1072;Colombia
+280;2002;Government of Colombia;ELN, FARC;1200;Colombia
+281;2003;Government of Colombia;ELN, FARC;500;Colombia
+282;2004;Government of Colombia;ELN, EPL, FARC;1234;Colombia
+283;2005;Government of Colombia;ELN, FARC;1389;Colombia
+284;2006;Government of Colombia;ELN, FARC;502;Colombia
+285;2007;Government of Colombia;FARC;316;Colombia, Venezuela
+286;2008;Government of Colombia;ELN, FARC;244;Colombia, Colombia, Ecuador
+287;2009;Government of Colombia;FARC;377;Colombia
+288;2010;Government of Colombia;ELN, FARC;419;Colombia
+289;2011;Government of Colombia;FARC;202;Colombia
+290;2012;Government of Colombia;FARC;211;Colombia
+291;2013;Government of Colombia;ELN, FARC;140;Colombia
+292;2014;Government of Colombia;FARC;113;Colombia
+293;2015;Government of Colombia;ELN, FARC;134;Colombia
+294;1989;Government of Peru;MRTA, Sendero Luminoso;1735;Peru
+295;1990;Government of Peru;MRTA, Sendero Luminoso;1047;Peru
+296;1991;Government of Peru;MRTA, Sendero Luminoso;1277;Peru
+297;1992;Government of Peru;MRTA, Sendero Luminoso;984;Peru
+298;1993;Government of Peru;MRTA, Sendero Luminoso;603;Peru
+299;1994;Government of Peru;Sendero Luminoso;224;Peru
+300;1995;Government of Peru;Sendero Luminoso;178;Peru
+301;1996;Government of Peru;Sendero Luminoso;80;Peru
+302;1997;Government of Peru;Sendero Luminoso;92;Peru
+303;1998;Government of Peru;Sendero Luminoso;25;Peru
+304;1999;Government of Peru;Sendero Luminoso;75;Peru
+305;2007;Government of Peru;Sendero Luminoso;32;Peru
+306;2008;Government of Peru;Sendero Luminoso;40;Peru
+307;2009;Government of Peru;Sendero Luminoso;50;Peru
+308;2010;Government of Peru;Sendero Luminoso;28;Peru
+309;2011;Government of Cambodia (Kampuchea);Government of Thailand;29;Cambodia (Kampuchea), Thailand
+310;2009;Government of Nigeria;Jama'atu Ahlis Sunna Lidda'awati wal-Jihad;405;Nigeria
+311;2011;Government of Nigeria;Jama'atu Ahlis Sunna Lidda'awati wal-Jihad;324;Nigeria
+312;2012;Government of Nigeria;Jama'atu Ahlis Sunna Lidda'awati wal-Jihad;811;Nigeria
+313;2013;Government of Nigeria;Jama'atu Ahlis Sunna Lidda'awati wal-Jihad;1446;Nigeria
+314;2014;Government of Nigeria;Jama'atu Ahlis Sunna Lidda'awati wal-Jihad;4476;Cameroon, Nigeria
+315;2015;Government of Nigeria;Jama'atu Ahlis Sunna Lidda'awati wal-Jihad;2548;Chad, Niger, Nigeria
+316;2011;Government of Syria;Syrian insurgents;834;Syria
+317;2012;Government of Syria;Syrian insurgents;15092;Syria, Turkey
+318;2013;Government of Syria;Syrian insurgents;48713;Iraq, Lebanon, Syria
+319;2014;Government of Syria;Syrian insurgents;54849;Syria
+320;2015;Government of Syria;Syrian insurgents;33966;Jordan, Syria
+321;1989;Government of Cambodia (Kampuchea);FUNCINPEC, KPNLF, KR;818;Cambodia (Kampuchea), Cambodia (Kampuchea), Thailand
+322;1990;Government of Cambodia (Kampuchea);KPNLF, KR;274;Cambodia (Kampuchea)
+323;1991;Government of Cambodia (Kampuchea);FUNCINPEC, KPNLF, KR;220;Cambodia (Kampuchea)
+324;1992;Government of Cambodia (Kampuchea);KR;118;Cambodia (Kampuchea)
+325;1993;Government of Cambodia (Kampuchea);KR;274;Cambodia (Kampuchea)
+326;1994;Government of Cambodia (Kampuchea);KR;464;Cambodia (Kampuchea)
+327;1995;Government of Cambodia (Kampuchea);KR;694;Cambodia (Kampuchea)
+328;1996;Government of Cambodia (Kampuchea);KR;788;Cambodia (Kampuchea)
+329;1997;Government of Cambodia (Kampuchea);FUNCINPEC, KR;427;Cambodia (Kampuchea), Cambodia (Kampuchea), Thailand
+330;1998;Government of Cambodia (Kampuchea);KR;235;Cambodia (Kampuchea), Thailand
+331;2000;Government of Guinea;RFDG;217;Guinea
+332;2001;Government of Guinea;RFDG;432;Guinea, Liberia, Sierra Leone
+333;1989;Government of Philippines;MNLF;115;Philippines
+334;1990;Government of Philippines;MILF, MNLF;141;Philippines
+335;1993;Government of Philippines;ASG, MNLF;154;Philippines
+336;1994;Government of Philippines;ASG, MILF;196;Philippines
+337;1995;Government of Philippines;ASG;116;Philippines
+338;1996;Government of Philippines;ASG, MILF;180;Philippines
+339;1997;Government of Philippines;ASG, MILF;270;Philippines
+340;1998;Government of Philippines;ASG, MILF;93;Philippines
+341;1999;Government of Philippines;MILF;106;Philippines
+342;2000;Government of Philippines;ASG, MILF;1427;Philippines
+343;2001;Government of Philippines;ASG, MILF, MNLF - NM;652;Philippines
+344;2002;Government of Philippines;ASG, MILF;382;Philippines
+345;2003;Government of Philippines;ASG, MILF;825;Philippines
+346;2004;Government of Philippines;ASG, MILF;69;Philippines
+347;2005;Government of Philippines;ASG, MILF, MNLF - NM;236;Philippines
+348;2006;Government of Philippines;ASG;50;Philippines
+349;2007;Government of Philippines;ASG, MILF, MNLF - HM;307;Philippines
+350;2008;Government of Philippines;MILF;297;Philippines
+351;2009;Government of Philippines;ASG, MILF;517;Philippines
+352;2010;Government of Philippines;ASG;74;Philippines
+353;2011;Government of Philippines;ASG, MILF;146;Philippines
+354;2012;Government of Philippines;ASG, BIFM;113;Philippines
+355;2013;Government of Philippines;ASG, BIFM, MNLF - NM;349;Philippines
+356;2014;Government of Philippines;ASG, BIFM;280;Philippines
+357;2015;Government of Philippines;ASG, BIFM, MILF;404;Philippines
+358;1989;Government of Sudan;SPLM/A;4253;Sudan, Uganda
+359;1990;Government of Sudan;SPLM/A;4335;Sudan, Uganda
+360;1991;Government of Sudan;SPLM/A;1317;Sudan, Uganda
+361;1992;Government of Sudan;SPLM/A;1083;Sudan
+362;1993;Government of Sudan;SPLM/A;942;Sudan
+363;1994;Government of Sudan;SPLM/A;337;Sudan
+364;1995;Government of Sudan;SPLM/A;1000;Sudan
+365;1996;Government of Sudan;NDA, SPLM/A;2289;Sudan
+366;1997;Government of Sudan;NDA, SPLM/A;3709;Sudan
+367;1998;Government of Sudan;NDA, SPLM/A;4891;Sudan
+368;1999;Government of Sudan;NDA, SPLM/A;1408;Sudan
+369;2000;Government of Sudan;NDA, SPLM/A;2841;Sudan
+370;2001;Government of Sudan;NDA, SPLM/A;3408;Sudan
+371;2002;Government of Sudan;SPLM/A;2021;Sudan
+372;2003;Government of Sudan;JEM, SLM/A, SPLM/A;1999;Sudan
+373;2004;Government of Sudan;JEM, SLM/A, SPLM/A;3278;Sudan
+374;2005;Government of Sudan;SLM/A;161;Sudan
+375;2006;Government of Sudan;NRF, SLM/A, SLM/A - MM;1002;Sudan
+376;2007;Government of Sudan;JEM, SLM/A-Unity;217;Sudan
+377;2008;Government of Sudan;JEM, SLM/A, SLM/A-Unity;598;Sudan
+378;2009;Government of Sudan;JEM, SLM/A;353;Chad, Sudan, Sudan
+379;2010;Government of Sudan;JEM, SLM/A, SSDM/A;1010;Sudan
+380;2011;Government of Sudan;JEM, SLM/A, SPLM/A-North, SRF, SSDM/A, SSLM/A;1324;Ethiopia, Sudan, Sudan
+381;2012;Government of Sudan;SRF;1173;Sudan
+382;2013;Government of Sudan;SRF;593;Sudan
+383;2014;Government of Sudan;Darfur Joint Resistance Forces, SARC, SRF;856;South Sudan, Sudan, Sudan
+384;2015;Government of Sudan;Darfur Joint Resistance Forces, SRF;1258;South Sudan, Sudan, Sudan
+385;1989;Government of Sri Lanka;JVP;388;Sri Lanka
+386;1990;Government of Sri Lanka;JVP;61;Sri Lanka
+387;1989;Government of Uganda;LRA, UPA;1019;Uganda
+388;1990;Government of Uganda;LRA, UPA;621;Uganda
+389;1991;Government of Uganda;LRA, UPA;853;Uganda
+390;1992;Government of Uganda;UPA;72;Uganda
+391;1994;Government of Uganda;LRA;149;Uganda
+392;1995;Government of Uganda;LRA;295;Sudan, Uganda
+393;1996;Government of Uganda;ADF, LRA, WNBF;1240;DR Congo (Zaire), Uganda, Uganda
+394;1997;Government of Uganda;ADF, LRA, UNRF II;888;Sudan, Uganda, Uganda
+395;1998;Government of Uganda;ADF, LRA;833;DR Congo (Zaire), Uganda, Uganda
+396;1999;Government of Uganda;ADF;355;DR Congo (Zaire), Uganda
+397;2000;Government of Uganda;ADF, LRA;388;DR Congo (Zaire), Uganda, Uganda
+398;2001;Government of Uganda;ADF, LRA;189;DR Congo (Zaire), Uganda, Sudan, Uganda
+399;2002;Government of Uganda;ADF, LRA;1086;DR Congo (Zaire), Uganda, Sudan, Uganda
+400;2003;Government of Uganda;LRA;642;Sudan, Uganda
+401;2004;Government of Uganda;LRA;1610;Sudan, Uganda
+402;2005;Government of Uganda;LRA;695;Sudan, Uganda
+403;2006;Government of Uganda;LRA;221;DR Congo (Zaire), Sudan, Uganda
+404;2007;Government of Uganda;ADF;91;Uganda
+405;2008;Government of Uganda;LRA;53;DR Congo (Zaire), Sudan
+406;2009;Government of Uganda;LRA;238;Central African Republic, DR Congo (Zaire), Sudan
+407;2010;Government of Uganda;ADF, LRA;120;Central African Republic, DR Congo (Zaire), Sudan, DR Congo (Zaire)
+408;2011;Government of Uganda;ADF, LRA;136;Central African Republic, DR Congo (Zaire), South Sudan, Sudan, DR Congo (Zaire)
+409;2013;Government of Uganda;ADF, LRA;100;Central African Republic, DR Congo (Zaire), DR Congo (Zaire)
+410;2014;Government of Uganda;ADF, LRA;864;Central African Republic, DR Congo (Zaire), DR Congo (Zaire)
+411;2015;Government of Uganda;ADF;197;DR Congo (Zaire)
+412;1998;Government of United Kingdom;RIRA;29;United Kingdom
+413;1989;Government of United Kingdom;PIRA;37;Germany, United Kingdom
+414;1990;Government of United Kingdom;PIRA;44;Germany, Netherlands, United Kingdom
+415;1991;Government of United Kingdom;PIRA;26;United Kingdom
+416;1989;Government of El Salvador;FMLN;4925;El Salvador
+417;1990;Government of El Salvador;FMLN;848;El Salvador
+418;1991;Government of El Salvador;FMLN;88;El Salvador
+419;1989;Government of Bangladesh;JSS/SB;26;Bangladesh
+420;1990;Government of Bangladesh;JSS/SB;45;Bangladesh
+421;1991;Government of Bangladesh;JSS/SB;25;Bangladesh
+422;2004;Government of Pakistan;BLA;43;Pakistan
+423;2006;Government of Pakistan;BLA, Baloch Ittehad;200;Pakistan
+424;2007;Government of Pakistan;BLA;83;Pakistan
+425;2008;Government of Pakistan;BLA, BRA;197;Pakistan
+426;2009;Government of Pakistan;BLA, BRA;81;Pakistan
+427;2011;Government of Pakistan;BLA;42;Pakistan
+428;2012;Government of Pakistan;BLA, BLF, BRA;118;Pakistan
+429;2013;Government of Pakistan;BLA;45;Pakistan
+430;2014;Government of Pakistan;BLA, BRA;90;Pakistan
+431;2015;Government of Pakistan;BLA, BLF, BRA;89;Pakistan
+432;2003;Government of Eritrea;EIJM - AS;57;Eritrea
+433;1997;Government of Eritrea;EIJM - AS;31;Eritrea
+434;1999;Government of Eritrea;EIJM - AS;25;Eritrea
+435;1989;Government of Angola;UNITA;2810;Angola
+436;1990;Government of Angola;UNITA;2558;Angola
+437;1991;Government of Angola;UNITA;491;Angola
+438;1992;Government of Angola;UNITA;2321;Angola
+439;1993;Government of Angola;UNITA;12054;Angola
+440;1994;Government of Angola;UNITA;3924;Angola, DR Congo (Zaire)
+441;1995;Government of Angola;UNITA;162;Angola
+442;1998;Government of Angola;UNITA;1041;Angola
+443;1999;Government of Angola;UNITA;2273;Angola, Namibia
+444;2000;Government of Angola;UNITA;1000;Angola, Namibia
+445;2001;Government of Angola;UNITA;1123;Angola
+446;2002;Government of Angola;UNITA;461;Angola, Namibia
+447;1993;Government of Ethiopia;AIAI;36;Ethiopia
+448;1994;Government of Ethiopia;ONLF;50;Ethiopia
+449;1996;Government of Ethiopia;AIAI, ONLF;211;Ethiopia, Ethiopia, Somalia
+450;1998;Government of Ethiopia;ONLF;25;Ethiopia
+451;1999;Government of Ethiopia;AIAI, ONLF;50;Ethiopia, Somalia
+452;2000;Government of Ethiopia;ONLF;25;Ethiopia
+453;2001;Government of Ethiopia;ONLF;25;Ethiopia
+454;2002;Government of Ethiopia;ONLF;25;Ethiopia
+455;2003;Government of Ethiopia;ONLF;25;Ethiopia
+456;2004;Government of Ethiopia;ONLF;25;Ethiopia, Somalia
+457;2005;Government of Ethiopia;ONLF;58;Ethiopia
+458;2006;Government of Ethiopia;ONLF;25;Ethiopia
+459;2007;Government of Ethiopia;ONLF;152;Ethiopia
+460;2008;Government of Ethiopia;ONLF;25;Ethiopia
+461;2009;Government of Ethiopia;ONLF;473;Ethiopia
+462;2010;Government of Ethiopia;ONLF;126;Ethiopia, Somalia
+463;2011;Government of Ethiopia;ONLF;25;Ethiopia, Kenya
+464;2012;Government of Ethiopia;ONLF;25;Ethiopia
+465;2013;Government of Ethiopia;ONLF;52;Ethiopia
+466;2014;Government of Ethiopia;ONLF;25;Ethiopia
+467;2015;Government of Ethiopia;ONLF;25;Ethiopia
+468;1992;Government of Indonesia;Fretilin;39;Indonesia
+469;1997;Government of Indonesia;Fretilin;51;Indonesia
+470;1998;Government of Indonesia;Fretilin;30;Indonesia
+471;1999;Government of Indonesia;Fretilin;26;Indonesia
+472;1989;Government of Morocco;POLISARIO;207;Morocco
+473;1992;Government of Mozambique;Renamo;309;Mozambique
+474;2013;Government of Mozambique;Renamo;27;Mozambique
+475;1989;Government of Mozambique;Renamo;1149;Mozambique
+476;1990;Government of Mozambique;Renamo;1577;Mozambique
+477;1991;Government of Mozambique;Renamo;1326;Mozambique
+478;1989;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Hizb-i Islami-yi Afghanistan - Khalis faction, Hizb-i Wahdat, Jam'iyyat-i Islami-yi Afghanistan, Mahaz-i Milli-yi Islami-yi Afghanistan;5174;Afghanistan
+479;1990;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Hizb-i Islami-yi Afghanistan - Khalis faction, Hizb-i Wahdat, Jam'iyyat-i Islami-yi Afghanistan, Military faction (forces of Shahnawaz Tanay);1478;Afghanistan
+480;1991;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Hizb-i Islami-yi Afghanistan - Khalis faction, Hizb-i Wahdat, Jam'iyyat-i Islami-yi Afghanistan;3302;Afghanistan
+481;1992;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Hizb-i Wahdat, Jam'iyyat-i Islami-yi Afghanistan;4276;Afghanistan
+482;1993;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Hizb-i Wahdat, Junbish-i Milli-yi Islami;3721;Afghanistan
+483;1994;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Hizb-i Wahdat, Junbish-i Milli-yi Islami;8937;Afghanistan
+484;1995;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Hizb-i Wahdat, Junbish-i Milli-yi Islami, Taleban;5516;Afghanistan, Afghanistan, Pakistan
+485;1996;Government of Afghanistan;Jam'iyyat-i Islami-yi Afghanistan, Taleban, UIFSA;3177;Afghanistan
+486;1997;Government of Afghanistan;UIFSA;6396;Afghanistan
+487;1998;Government of Afghanistan;UIFSA;6256;Afghanistan
+488;1999;Government of Afghanistan;UIFSA;4629;Afghanistan
+489;2000;Government of Afghanistan;UIFSA;5235;Afghanistan
+490;2001;Government of Afghanistan;UIFSA;2328;Afghanistan
+491;2002;Government of Afghanistan;Hizb-i Islami-yi Afghanistan;30;Afghanistan
+492;2003;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Taleban;660;Afghanistan
+493;2004;Government of Afghanistan;Taleban;711;Afghanistan, Pakistan
+494;2005;Government of Afghanistan;Taleban;1628;Afghanistan, Pakistan
+495;2006;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Taleban;4734;Afghanistan, Afghanistan, Pakistan
+496;2007;Government of Afghanistan;Taleban;6827;Afghanistan, Pakistan
+497;2008;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Taleban;5655;Afghanistan, Pakistan
+498;2009;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Taleban;6381;Afghanistan, Afghanistan, Pakistan
+499;2010;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Taleban;7029;Afghanistan, Afghanistan, Pakistan
+500;2011;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Taleban;7425;Afghanistan, Afghanistan, Pakistan
+501;2012;Government of Afghanistan;Taleban;7728;Afghanistan, Pakistan
+502;2013;Government of Afghanistan;Hizb-i Islami-yi Afghanistan, Taleban;8048;Afghanistan, Afghanistan, Pakistan
+503;2014;Government of Afghanistan;Taleban;12346;Afghanistan, Pakistan
+504;2015;Government of Afghanistan;Taleban;16581;Afghanistan, Pakistan
+505;1992;Government of India;ATTF;29;India
+506;1997;Government of India;ATTF, NLFT;72;India
+507;1999;Government of India;NLFT;32;India
+508;2000;Government of India;NLFT;61;India
+509;2001;Government of India;NLFT;32;India
+510;2002;Government of India;NLFT;40;India
+511;2003;Government of India;NLFT;32;India
+512;2004;Government of India;NLFT-B;26;India
+513;1989;Government of Nicaragua;Contras/FDN;526;Nicaragua
+514;1990;Government of Nicaragua;Contras/FDN;39;Nicaragua
+515;1989;Government of Somalia;SNM, SPM;379;Djibouti, Somalia, Somalia
+516;1990;Government of Somalia;SNM, SPM, USC/SSA;2710;Djibouti, Somalia, Somalia
+517;1991;Government of Somalia;SNM, SPM, USC/SNA, USC/SSA;8005;Somalia
+518;1992;Government of Somalia;USC/SNA;1154;Somalia
+519;1993;Government of Somalia;USC/SNA;25;Somalia
+520;1994;Government of Somalia;USC/SNA;237;Somalia
+521;1995;Government of Somalia;USC/SNA;104;Somalia
+522;1996;Government of Somalia;USC/SNA;256;Somalia
+523;2001;Government of Somalia;SRRC;228;Somalia
+524;2002;Government of Somalia;SRRC;114;Somalia
+525;2006;Government of Somalia;ARS/UIC;547;Somalia
+526;2007;Government of Somalia;ARS/UIC;1550;Kenya, Somalia
+527;2008;Government of Somalia;ARS/UIC, Al-Shabaab;1499;Somalia
+528;2009;Government of Somalia;Al-Shabaab, Hizbul Islam;1471;Somalia
+529;2010;Government of Somalia;Al-Shabaab, Hizbul Islam;2151;Somalia
+530;2011;Government of Somalia;Al-Shabaab;1938;Kenya, Somalia
+531;2012;Government of Somalia;Al-Shabaab;2622;Kenya, Somalia
+532;2013;Government of Somalia;Al-Shabaab;926;Ethiopia, Kenya, Somalia
+533;2014;Government of Somalia;Al-Shabaab;1141;Ethiopia, Kenya, Somalia
+534;2015;Government of Somalia;Al-Shabaab;1161;Kenya, Somalia
+535;1991;Government of Iran;MEK;45;Iran, Iraq
+536;1993;Government of Iran;MEK;76;Iran, Iraq, Italy, Pakistan
+537;1997;Government of Iran;MEK;34;Iran, Iraq
+538;1999;Government of Iran;MEK;28;Iran, Iraq
+539;2000;Government of Iran;MEK;40;Iran, Iraq
+540;2001;Government of Iran;MEK;119;Iran, Iraq
+541;2005;Government of Iran;PJAK;28;Iran
+542;2006;Government of Iran;Jondullah, PJAK;57;Iran, Iran, Iraq
+543;2007;Government of Iran;Jondullah, PJAK;72;Iran, Iran, Iraq
+544;2008;Government of Iran;Jondullah, PJAK;121;Iran, Iraq, Iran, Pakistan
+545;2009;Government of Iran;Jondullah, PJAK;133;Iran
+546;2010;Government of Iran;Jondullah;74;Iran
+547;2011;Government of Iran;PJAK;228;Iran, Iraq
+548;1989;Government of Liberia;NPFL;27;Liberia
+549;1990;Government of Liberia;INPFL, NPFL;347;Ivory Coast, Liberia, Liberia
+550;2000;Government of Liberia;LURD;57;Liberia
+551;2001;Government of Liberia;LURD;341;Liberia
+552;2002;Government of Liberia;LURD;492;Liberia
+553;2003;Government of Liberia;LURD, MODEL;1787;Liberia
+554;1991;Government of Spain;ETA;44;Spain
+555;1993;Government of India;UNLF;25;India
+556;1994;Government of India;UNLF;25;India
+557;1995;Government of India;PLA;25;India
+558;1996;Government of India;PLA;28;India
+559;1998;Government of India;PLA;25;India
+560;1999;Government of India;UNLF;31;India
+561;2000;Government of India;PLA, UNLF;60;India
+562;2003;Government of India;UNLF;27;India
+563;2004;Government of India;PLA, UNLF;60;India
+564;2005;Government of India;UNLF;47;India
+565;2006;Government of India;PLA, UNLF;73;India
+566;2007;Government of India;UNLF;45;India
+567;2008;Government of India;KCP, PREPAK;99;India
+568;2009;Government of India;KCP, PREPAK, UNLF;96;India
+569;1992;Government of India;Sikh insurgents;2390;India
+570;1993;Government of India;Sikh insurgents;358;India
+571;1989;Government of India;Sikh insurgents;905;India
+572;1990;Government of India;Sikh insurgents;1839;India
+573;1991;Government of India;Sikh insurgents;2673;India
+574;1989;Government of Sri Lanka;EPRLF, LTTE;145;Sri Lanka
+575;1990;Government of Sri Lanka;LTTE;3561;Sri Lanka
+576;1991;Government of Sri Lanka;LTTE;6432;Sri Lanka
+577;1992;Government of Sri Lanka;LTTE;4091;Sri Lanka
+578;1993;Government of Sri Lanka;LTTE;2075;Sri Lanka
+579;1994;Government of Sri Lanka;LTTE;657;Sri Lanka
+580;1995;Government of Sri Lanka;LTTE;4755;Sri Lanka
+581;1996;Government of Sri Lanka;LTTE;3868;France, Sri Lanka
+582;1997;Government of Sri Lanka;LTTE;2880;Sri Lanka
+583;1998;Government of Sri Lanka;LTTE;3762;Sri Lanka
+584;1999;Government of Sri Lanka;LTTE;1882;Sri Lanka
+585;2000;Government of Sri Lanka;LTTE;2525;Sri Lanka
+586;2001;Government of Sri Lanka;LTTE;1144;Sri Lanka
+587;2003;Government of Sri Lanka;LTTE;29;Sri Lanka
+588;2005;Government of Sri Lanka;LTTE;88;Sri Lanka
+589;2006;Government of Sri Lanka;LTTE;1970;Sri Lanka
+590;2007;Government of Sri Lanka;LTTE;2494;Sri Lanka
+591;2008;Government of Sri Lanka;LTTE;8262;Sri Lanka
+592;2009;Government of Sri Lanka;LTTE;10165;Sri Lanka
+593;2015;Government of Cameroon;Jama'atu Ahlis Sunna Lidda'awati wal-Jihad;457;Cameroon
+594;1989;Government of Turkey;PKK;227;Turkey
+595;1990;Government of Turkey;PKK;245;Turkey
+596;1991;Government of Turkey;PKK;304;Turkey
+597;1992;Government of Turkey;PKK;1518;Iraq, Turkey
+598;1993;Government of Turkey;PKK;2117;Turkey
+599;1994;Government of Turkey;PKK;3980;Iraq, Turkey
+600;1995;Government of Turkey;PKK;3076;Iraq, Turkey
+601;1996;Government of Turkey;PKK;3573;Iraq, Turkey
+602;1997;Government of Turkey;PKK;4183;Iraq, Turkey
+603;1998;Government of Turkey;PKK;1952;Iraq, Turkey
+604;1999;Government of Turkey;PKK;1390;Iraq, Turkey
+605;2000;Government of Turkey;PKK;174;Iraq, Turkey
+606;2001;Government of Turkey;PKK;81;Turkey
+607;2002;Government of Turkey;PKK;51;Iraq, Turkey
+608;2003;Government of Turkey;PKK;79;Iraq, Turkey
+609;2004;Government of Turkey;PKK;183;Turkey
+610;2005;Government of Turkey;PKK;330;Turkey
+611;2006;Government of Turkey;PKK;210;Turkey
+612;2007;Government of Turkey;PKK;458;Iraq, Turkey
+613;2008;Government of Turkey;PKK;513;Iraq, Turkey
+614;2009;Government of Turkey;PKK;133;Iraq, Turkey
+615;2010;Government of Turkey;PKK;326;Iraq, Turkey
+616;2011;Government of Turkey;PKK;603;Iraq, Turkey
+617;2012;Government of Turkey;PKK;811;Iraq, Turkey
+618;2013;Government of Turkey;PKK;30;Iraq, Turkey
+619;2015;Government of Turkey;PKK;903;Turkey, Iraq
+620;1989;Government of Comoros;Presidential guard;29;Comoros
+621;1996;Government of Ethiopia;ARDUF;25;Ethiopia
+622;1990;Government of India;Kashmir insurgents;407;India
+623;1991;Government of India;Kashmir insurgents;330;India
+624;1992;Government of India;Kashmir insurgents;265;India
+625;1993;Government of India;Kashmir insurgents;846;India
+626;1994;Government of India;Kashmir insurgents;958;India
+627;1995;Government of India;Kashmir insurgents;687;India
+628;1996;Government of India;Kashmir insurgents;489;India
+629;1997;Government of India;Kashmir insurgents;533;India
+630;1998;Government of India;Kashmir insurgents;576;India
+631;1999;Government of India;Kashmir insurgents;864;India
+632;2000;Government of India;Kashmir insurgents;2353;India, Pakistan
+633;2001;Government of India;Kashmir insurgents;734;India
+634;2002;Government of India;Kashmir insurgents;1464;India
+635;2003;Government of India;Kashmir insurgents;1149;India
+636;2004;Government of India;Kashmir insurgents;1094;India
+637;2005;Government of India;Kashmir insurgents;1058;India
+638;2006;Government of India;Kashmir insurgents;705;India
+639;2007;Government of India;Kashmir insurgents;550;India
+640;2008;Government of India;Kashmir insurgents;493;India
+641;2009;Government of India;Kashmir insurgents;361;India
+642;2010;Government of India;Kashmir insurgents;370;India
+643;2011;Government of India;Kashmir insurgents;140;India
+644;2012;Government of India;Kashmir insurgents;141;India
+645;2013;Government of India;Kashmir insurgents;146;India
+646;2014;Government of India;Kashmir insurgents;172;India
+647;2015;Government of India;Kashmir insurgents;162;India
+648;1990;Government of India;ULFA;30;India
+649;1994;Government of India;ULFA;25;India
+650;1995;Government of India;ULFA;29;India
+651;1996;Government of India;ULFA;48;India
+652;1997;Government of India;ULFA;112;India
+653;1998;Government of India;ULFA;55;India
+654;1999;Government of India;ULFA;53;India
+655;2000;Government of India;ULFA;87;India
+656;2001;Government of India;ULFA;113;India
+657;2002;Government of India;ULFA;59;India
+658;2003;Government of India;ULFA;43;India
+659;2004;Government of India;ULFA;70;India
+660;2005;Government of India;ULFA;78;India
+661;2006;Government of India;ULFA;49;India
+662;2007;Government of India;ULFA;114;India
+663;2008;Government of India;ULFA;75;India
+664;2009;Government of India;ULFA;63;India
+665;2010;Government of India;ULFA;32;India
+666;1990;Government of Indonesia;GAM;72;Indonesia
+667;1991;Government of Indonesia;GAM;58;Indonesia
+668;1999;Government of Indonesia;GAM;187;Indonesia
+669;2000;Government of Indonesia;GAM;286;Indonesia
+670;2001;Government of Indonesia;GAM;278;Indonesia
+671;2002;Government of Indonesia;GAM;466;Indonesia
+672;2003;Government of Indonesia;GAM;863;Indonesia
+673;2004;Government of Indonesia;GAM;915;Indonesia
+674;2005;Government of Indonesia;GAM;213;Indonesia
+675;1989;Government of Panama;Military faction (forces of Moisés Giroldi);77;Panama
+676;1989;Government of Panama;Government of United States of America;843;Panama
+677;1990;Government of Papua New Guinea;BRA;55;Papua New Guinea
+678;1992;Government of Papua New Guinea;BRA;35;Papua New Guinea, Solomon Islands
+679;1993;Government of Papua New Guinea;BRA;34;Papua New Guinea
+680;1994;Government of Papua New Guinea;BRA;26;Papua New Guinea
+681;1995;Government of Papua New Guinea;BRA;29;Papua New Guinea
+682;1996;Government of Papua New Guinea;BRA;78;Papua New Guinea
+683;1989;Government of Rumania;Military faction (forces of Nicolae Ceausescu), NSF;249;Rumania
+684;1990;Government of Iraq;Government of Kuwait;1058;Kuwait
+685;1991;Government of Iraq;Government of Kuwait;21790;Iraq, Kuwait, Philippines, Saudi Arabia
+686;1990;Government of Mali;MPA;203;Mali
+687;1994;Government of Mali;FIAA;106;Mali
+688;2007;Government of Mali;ATNMC;39;Mali
+689;2008;Government of Mali;ATNMC;112;Mali
+690;2009;Government of Mali;ATNMC;39;Mali
+691;2012;Government of Mali;CMA;131;Mali
+692;2014;Government of Mali;CMA;80;Mali
+693;2015;Government of Mali;CMA;54;Mali
+694;1994;Government of Niger;CRA;50;Niger
+695;1990;Government of Rwanda;FPR;1126;Rwanda
+696;1991;Government of Rwanda;FPR;153;Rwanda
+697;1992;Government of Rwanda;FPR;87;Rwanda
+698;1993;Government of Rwanda;FPR;353;Rwanda
+699;1994;Government of Rwanda;FPR;1054;Rwanda
+700;1996;Government of Rwanda;ALiR;60;Rwanda
+701;1997;Government of Rwanda;ALiR;636;DR Congo (Zaire), Rwanda
+702;1998;Government of Rwanda;ALiR;1096;DR Congo (Zaire), Rwanda
+703;1999;Government of Rwanda;ALiR;315;DR Congo (Zaire)
+704;2000;Government of Rwanda;ALiR;155;DR Congo (Zaire)
+705;2001;Government of Rwanda;FDLR;2044;Rwanda
+706;2002;Government of Rwanda;FDLR;59;Burundi
+707;2009;Government of Rwanda;FDLR;1824;DR Congo (Zaire)
+708;2010;Government of Rwanda;FDLR;208;DR Congo (Zaire)
+709;2011;Government of Rwanda;FDLR;116;DR Congo (Zaire)
+710;2012;Government of Rwanda;FDLR;83;DR Congo (Zaire), Rwanda
+711;1990;Government of Senegal;MFDC;58;Senegal
+712;1992;Government of Senegal;MFDC;78;Guinea-Bissau, Senegal
+713;1993;Government of Senegal;MFDC;233;Senegal
+714;1995;Government of Senegal;MFDC;299;Senegal
+715;1997;Government of Senegal;MFDC;319;Senegal
+716;1998;Government of Senegal;MFDC;242;Senegal
+717;2000;Government of Senegal;MFDC;47;Guinea-Bissau, Senegal
+718;2001;Government of Senegal;MFDC;33;Senegal
+719;2003;Government of Senegal;MFDC;39;Senegal
+720;2011;Government of Senegal;MFDC;25;Senegal
+721;1990;Government of Russia (Soviet Union);Republic of Armenia;48;Russia (Soviet Union)
+722;1991;Government of Russia (Soviet Union);Republic of Armenia;220;Russia (Soviet Union)
+723;1990;Government of Russia (Soviet Union);APF;143;Russia (Soviet Union)
+724;1990;Government of Trinidad and Tobago;Jamaat al-Muslimeen;39;Trinidad and Tobago
+725;1992;Government of Djibouti;FRUD;129;Djibouti
+726;1993;Government of Djibouti;FRUD;33;Djibouti
+727;1994;Government of Djibouti;FRUD;39;Djibouti
+728;1999;Government of Djibouti;FRUD - AD;25;Djibouti
+729;1991;Government of Djibouti;FRUD;59;Djibouti
+730;1992;Government of Georgia;National Guard and Mkhedrioni, Zviadists;96;Georgia
+731;1993;Government of Georgia;Zviadists;152;Georgia
+732;1991;Government of Georgia;National Guard and Mkhedrioni;52;Georgia
+733;2004;Government of Haiti;FLRN, OP Lavalas (Chimères);244;Haiti
+734;1989;Government of Haiti;Military faction (forces of Himmler Rebu and Guy Francois);48;Haiti
+735;1991;Government of Haiti;Military faction (forces of Raol Cédras);160;Haiti
+736;1991;Government of Sierra Leone;RUF;552;Sierra Leone
+737;1992;Government of Sierra Leone;RUF;218;Sierra Leone
+738;1993;Government of Sierra Leone;RUF;415;Liberia, Sierra Leone
+739;1994;Government of Sierra Leone;RUF;628;Sierra Leone
+740;1995;Government of Sierra Leone;RUF;1472;Sierra Leone
+741;1996;Government of Sierra Leone;RUF;570;Sierra Leone
+742;1997;Government of Sierra Leone;AFRC, Kamajors, RUF;748;Sierra Leone
+743;1998;Government of Sierra Leone;AFRC, Kamajors, RUF;3287;Sierra Leone
+744;1999;Government of Sierra Leone;AFRC, RUF;3153;Sierra Leone
+745;2000;Government of Sierra Leone;RUF, WSB;382;Sierra Leone
+746;2001;Government of Sierra Leone;RUF;48;Sierra Leone
+747;1992;Government of Turkey;Devrimci Sol;66;Turkey
+748;2005;Government of Turkey;MKP;29;Turkey
+749;1991;Government of Turkey;Devrimci Sol;40;Turkey
+750;1991;Government of Serbia (Yugoslavia);Republic of Slovenia;64;Serbia (Yugoslavia)
+751;1992;Government of Serbia (Yugoslavia);Republic of Croatia;112;Serbia (Yugoslavia)
+752;1991;Government of Serbia (Yugoslavia);Croatian irregulars, Republic of Croatia;2958;Serbia (Yugoslavia)
+753;1991;Government of Algeria;Takfir wa'l Hijra;34;Algeria
+754;1992;Government of Algeria;AIS;257;Algeria
+755;1993;Government of Algeria;AIS, GIA;800;Algeria
+756;1994;Government of Algeria;AIS, GIA;1916;Algeria
+757;1995;Government of Algeria;AIS, GIA;3008;Algeria
+758;1996;Government of Algeria;AIS, GIA;1084;Algeria
+759;1997;Government of Algeria;AIS, GIA;1403;Algeria
+760;1998;Government of Algeria;GIA;3029;Algeria
+761;1999;Government of Algeria;AQIM, GIA;1016;Algeria
+762;2000;Government of Algeria;AQIM, GIA;931;Algeria
+763;2001;Government of Algeria;AQIM, GIA;642;Algeria
+764;2002;Government of Algeria;AQIM, GIA;538;Algeria
+765;2003;Government of Algeria;AQIM, GIA;670;Algeria
+766;2004;Government of Algeria;AQIM;451;Algeria, Chad, Niger
+767;2005;Government of Algeria;AQIM;229;Algeria, Mali
+768;2006;Government of Algeria;AQIM;255;Algeria
+769;2007;Government of Algeria;AQIM;472;Algeria
+770;2008;Government of Algeria;AQIM;339;Algeria
+771;2009;Government of Algeria;AQIM;505;Algeria
+772;2010;Government of Algeria;AQIM;236;Algeria
+773;2011;Government of Algeria;AQIM;267;Algeria
+774;2012;Government of Algeria;AQIM, MUJAO;256;Algeria
+775;2013;Government of Algeria;AQIM;147;Algeria
+776;2014;Government of Algeria;AQIM;107;Algeria
+777;2015;Government of Algeria;AQIM;84;Algeria
+778;1991;Government of Angola;FLEC-R;35;Angola
+779;1994;Government of Angola;FLEC-FAC, FLEC-R;50;Angola
+780;1996;Government of Angola;FLEC-FAC;72;Angola
+781;1997;Government of Angola;FLEC-FAC, FLEC-R;50;Angola
+782;1998;Government of Angola;FLEC-FAC;34;Angola
+783;2002;Government of Angola;FLEC-FAC, FLEC-R;55;Angola
+784;2004;Government of Angola;FLEC-FAC;37;Angola
+785;2007;Government of Angola;FLEC-FAC;25;Angola
+786;2009;Government of Angola;FLEC-FAC;25;Angola
+787;1991;Government of Azerbaijan;Republic of Nagorno-Karabakh;35;Azerbaijan
+788;1992;Government of Azerbaijan;Republic of Nagorno-Karabakh;2167;Armenia, Azerbaijan
+789;1993;Government of Azerbaijan;Republic of Nagorno-Karabakh;1171;Armenia, Azerbaijan
+790;1994;Government of Azerbaijan;Republic of Nagorno-Karabakh;1507;Armenia, Azerbaijan
+791;1997;Government of Azerbaijan;Republic of Nagorno-Karabakh;29;Azerbaijan
+792;1998;Government of Azerbaijan;Republic of Nagorno-Karabakh;34;Azerbaijan
+793;2005;Government of Azerbaijan;Republic of Nagorno-Karabakh;25;Armenia, Azerbaijan
+794;2008;Government of Azerbaijan;Republic of Nagorno-Karabakh;30;Azerbaijan
+795;2012;Government of Azerbaijan;Republic of Nagorno-Karabakh;25;Armenia, Azerbaijan
+796;2014;Government of Azerbaijan;Republic of Nagorno-Karabakh;46;Azerbaijan
+797;2015;Government of Azerbaijan;Republic of Nagorno-Karabakh;72;Armenia, Azerbaijan
+798;1992;Government of Bosnia-Herzegovina;Serbian Republic of Bosnia-Herzegovina, Serbian irregulars;4018;Bosnia-Herzegovina, Bosnia-Herzegovina, Croatia, Serbia (Yugoslavia)
+799;1993;Government of Bosnia-Herzegovina;Serbian Republic of Bosnia-Herzegovina, Serbian irregulars;2835;Bosnia-Herzegovina
+800;1994;Government of Bosnia-Herzegovina;Serbian Republic of Bosnia-Herzegovina, Serbian irregulars;1779;Bosnia-Herzegovina
+801;1995;Government of Bosnia-Herzegovina;Serbian Republic of Bosnia-Herzegovina, Serbian irregulars;1197;Bosnia-Herzegovina
+802;1992;Government of Croatia;Serbian Republic of Krajina, Serbian irregulars;126;Bosnia-Herzegovina, Croatia, Croatia
+803;1993;Government of Croatia;Serbian Republic of Krajina;345;Croatia
+804;1995;Government of Croatia;Serbian Republic of Krajina;858;Bosnia-Herzegovina, Croatia
+805;1993;Government of Egypt;al-Gama'a al-Islamiyya;103;Egypt
+806;1994;Government of Egypt;al-Gama'a al-Islamiyya;145;Egypt
+807;1995;Government of Egypt;al-Gama'a al-Islamiyya;191;Egypt, Ethiopia
+808;1996;Government of Egypt;al-Gama'a al-Islamiyya;85;Egypt
+809;1997;Government of Egypt;al-Gama'a al-Islamiyya;66;Egypt
+810;1998;Government of Egypt;al-Gama'a al-Islamiyya;27;Egypt
+811;2014;Government of Egypt;Ansar Bayt al-Maqdis;184;Egypt
+812;1992;Government of Georgia;Republic of Abkhazia;566;Georgia
+813;1993;Government of Georgia;Republic of Abkhazia;1611;Georgia
+814;1992;Government of Georgia;Republic of South Ossetia;134;Georgia
+815;2008;Government of Georgia;Republic of South Ossetia;621;Georgia
+816;2004;Government of Georgia;Republic of South Ossetia;27;Georgia
+817;1992;Government of Moldova;PMR;585;Moldova
+818;1992;Government of Tajikistan;PFT, UTO;3281;Tajikistan
+819;1993;Government of Tajikistan;UTO;1395;Afghanistan, Tajikistan
+820;1994;Government of Tajikistan;UTO;356;Tajikistan
+821;1995;Government of Tajikistan;UTO;368;Afghanistan, Tajikistan
+822;1996;Government of Tajikistan;UTO;2790;Tajikistan
+823;1997;Government of Tajikistan;Forces of Khudoberdiyev;87;Tajikistan
+824;1998;Government of Tajikistan;Forces of Khudoberdiyev, UTO;600;Tajikistan
+825;2000;Government of Tajikistan;Forces of Mullo Abdullo;46;Tajikistan
+826;2010;Government of Tajikistan;Forces of Mullo Abdullo, IMU;98;Tajikistan
+827;2011;Government of Tajikistan;IMU;28;Tajikistan
+828;1993;Government of Azerbaijan;Military faction (forces of Suret Husseinov);63;Azerbaijan
+829;1995;Government of Azerbaijan;OPON Forces;44;Azerbaijan
+830;1993;Government of Bosnia-Herzegovina;Autonomous Province of Western Bosnia;133;Bosnia-Herzegovina
+831;1994;Government of Bosnia-Herzegovina;Autonomous Province of Western Bosnia;722;Bosnia-Herzegovina
+832;1995;Government of Bosnia-Herzegovina;Autonomous Province of Western Bosnia;116;Bosnia-Herzegovina, Croatia
+833;1993;Government of Bosnia-Herzegovina;Croatian Republic of Bosnia-Herzegovina, Croatian irregulars;2327;Bosnia-Herzegovina
+834;1994;Government of Bosnia-Herzegovina;Croatian Republic of Bosnia-Herzegovina, Croatian irregulars;330;Bosnia-Herzegovina
+835;1993;Government of Russia (Soviet Union);Parliamentary Forces;145;Russia (Soviet Union)
+836;1994;Government of Mexico;EZLN;145;Mexico
+837;1996;Government of Mexico;EPR;37;Mexico
+838;1994;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;229;Russia (Soviet Union)
+839;1995;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;1754;Russia (Soviet Union)
+840;1996;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;2721;Russia (Soviet Union)
+841;1999;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;5769;Russia (Soviet Union)
+842;2000;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;2907;Russia (Soviet Union)
+843;2001;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;791;Russia (Soviet Union)
+844;2002;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;753;Russia (Soviet Union)
+845;2003;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;480;Russia (Soviet Union)
+846;2004;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;1151;Qatar, Russia (Soviet Union)
+847;2005;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;668;Russia (Soviet Union)
+848;2006;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;259;Russia (Soviet Union)
+849;2007;Government of Russia (Soviet Union);Chechen Republic of Ichkeria;146;Russia (Soviet Union)
+850;1994;Government of Yemen (North Yemen);Democratic Republic of Yemen;1489;Yemen (North Yemen)
+851;1995;Government of Ecuador;Government of Peru;92;Ecuador, Peru
+852;1990;Government of Pakistan;MQM;70;Pakistan
+853;1994;Government of Pakistan;MQM;38;Pakistan
+854;1995;Government of Pakistan;MQM;52;Pakistan
+855;1996;Government of Pakistan;MQM;42;Pakistan
+856;2007;Government of Pakistan;TTP;598;Pakistan
+857;2008;Government of Pakistan;TTP;2998;Pakistan
+858;2009;Government of Pakistan;Lashkar-e-Islam, TTP;6303;Pakistan
+859;2010;Government of Pakistan;Lashkar-e-Islam, TTP;5574;Pakistan
+860;2011;Government of Pakistan;TTP;2598;Afghanistan, Pakistan
+861;2012;Government of Pakistan;Lashkar-e-Islam, TTP, TTP - TA;2673;Pakistan
+862;2013;Government of Pakistan;Lashkar-e-Islam, TTP;1729;Pakistan
+863;2014;Government of Pakistan;IMU, Jamaat-ul-Ahrar, Lashkar-e-Islam, TTP;2947;Pakistan
+864;2015;Government of Pakistan;TTP;1954;Afghanistan, Pakistan
+865;1996;Government of Cameroon;Government of Nigeria;56;Cameroon
+866;1995;Government of Niger;FDR;34;Niger
+867;1997;Government of Comoros;MPA/Republic of Anjouan;56;Comoros
+868;1993;Government of Congo;Ninjas;53;Congo
+869;2002;Government of Congo;Ntsiloulous;167;Congo
+870;1997;Government of Congo;Cobras, Cocoyes;10033;Congo, Congo, DR Congo (Zaire)
+871;1998;Government of Congo;Cocoyes, Ninjas, Ntsiloulous;3272;Congo
+872;1999;Government of Congo;Cocoyes, Ninjas, Ntsiloulous;651;Congo
+873;2000;Government of Eritrea;Government of Ethiopia;50000;Eritrea, Ethiopia
+874;1998;Government of Eritrea;Government of Ethiopia;1000;Eritrea, Ethiopia
+875;1999;Government of Eritrea;Government of Ethiopia;47192;Eritrea, Ethiopia
+876;1998;Government of Guinea-Bissau;Military Junta for the Consolidation of Democracy, Peace and Justice;505;Guinea-Bissau
+877;1999;Government of Guinea-Bissau;Military Junta for the Consolidation of Democracy, Peace and Justice;199;Guinea-Bissau
+878;1998;Government of Lesotho;Military faction;68;Lesotho
+879;1998;Government of Serbia (Yugoslavia);UCK;1235;Serbia (Yugoslavia)
+880;1999;Government of Serbia (Yugoslavia);UCK;1404;Albania, Serbia (Yugoslavia)
+881;1989;Government of Ethiopia;OLF;25;Ethiopia
+882;1990;Government of Ethiopia;OLF;80;Ethiopia
+883;1991;Government of Ethiopia;OLF;700;Ethiopia
+884;1992;Government of Ethiopia;OLF;165;Ethiopia
+885;1994;Government of Ethiopia;OLF;25;Ethiopia
+886;1995;Government of Ethiopia;OLF;25;Ethiopia
+887;1998;Government of Ethiopia;OLF;25;Ethiopia
+888;1999;Government of Ethiopia;OLF;683;Ethiopia, Kenya
+889;2000;Government of Ethiopia;OLF;25;Ethiopia
+890;2001;Government of Ethiopia;OLF;25;Ethiopia, Kenya
+891;2002;Government of Ethiopia;OLF;25;Ethiopia
+892;2003;Government of Ethiopia;OLF;25;Ethiopia
+893;2004;Government of Ethiopia;OLF;25;Ethiopia
+894;2005;Government of Ethiopia;OLF;25;Ethiopia
+895;2006;Government of Ethiopia;OLF;25;Ethiopia
+896;2007;Government of Ethiopia;OLF;25;Ethiopia
+897;2008;Government of Ethiopia;OLF;25;Ethiopia
+898;2009;Government of Ethiopia;OLF;42;Ethiopia
+899;2010;Government of Ethiopia;OLF;25;Ethiopia
+900;2011;Government of Ethiopia;OLF;25;Ethiopia
+901;2012;Government of Ethiopia;OLF;25;Ethiopia
+902;2013;Government of Ethiopia;OLF;25;Ethiopia
+903;2015;Government of Ethiopia;OLF;25;Ethiopia
+904;1999;Government of Russia (Soviet Union);Wahhabi movement of the Buinaksk district;85;Russia (Soviet Union)
+905;2000;Government of Uzbekistan;IMU;471;Kyrgyzstan, Uzbekistan
+906;2004;Government of Uzbekistan;JIG;37;Uzbekistan
+907;1999;Government of Uzbekistan;IMU;67;Kyrgyzstan, Tajikistan, Uzbekistan
+908;2001;Government of Central African Republic;Military faction (forces of André Kolingba);234;Central African Republic
+909;2002;Government of Central African Republic;Forces of Francois Bozize;132;Central African Republic, Chad
+910;2006;Government of Central African Republic;UFDR;45;Central African Republic
+911;2009;Government of Central African Republic;CPJP;26;Central African Republic
+912;2010;Government of Central African Republic;CPJP;26;Central African Republic
+913;2011;Government of Central African Republic;CPJP;44;Central African Republic
+914;2012;Government of Central African Republic;Seleka;45;Central African Republic
+915;2013;Government of Central African Republic;Seleka, anti-Balaka;315;Central African Republic
+916;2001;Government of Macedonia, FYR;UCK;72;Macedonia, FYR
+917;2001;Government of United States of America;al-Qaida;1583;Afghanistan, Pakistan, United States of America
+918;2002;Government of United States of America;al-Qaida;878;Afghanistan, Pakistan
+919;2003;Government of United States of America;al-Qaida;54;Afghanistan, Pakistan
+920;2004;Government of United States of America;al-Qaida;378;Afghanistan, Pakistan, Saudi Arabia
+921;2005;Government of United States of America;al-Qaida;108;Afghanistan, Pakistan, Saudi Arabia
+922;2006;Government of United States of America;al-Qaida;246;Afghanistan, Pakistan, Saudi Arabia
+923;2007;Government of United States of America;al-Qaida;174;Afghanistan, Pakistan, Saudi Arabia, Somalia
+924;2008;Government of United States of America;al-Qaida;290;Afghanistan, Pakistan, Somalia, Yemen (North Yemen)
+925;2009;Government of United States of America;al-Qaida;450;Afghanistan, Pakistan, Somalia
+926;2010;Government of United States of America;al-Qaida;313;Afghanistan, Pakistan
+927;2011;Government of United States of America;al-Qaida;203;Afghanistan, Pakistan, Somalia
+928;2012;Government of United States of America;al-Qaida;225;Afghanistan, Pakistan, Somalia
+929;2013;Government of United States of America;al-Qaida;38;Afghanistan, Pakistan, Somalia
+930;2014;Government of United States of America;al-Qaida;103;Afghanistan, Pakistan, Syria
+931;2015;Government of United States of America;al-Qaida;64;Afghanistan, Pakistan, Syria
+932;2002;Government of Ivory Coast;MPCI, MPIGO;624;Ivory Coast
+933;2003;Government of Ivory Coast;MJP, MPIGO;139;Ivory Coast
+934;2004;Government of Ivory Coast;FRCI;47;Ivory Coast
+935;2011;Government of Ivory Coast;FDSI-CI;35;Ivory Coast
+936;2003;Government of Australia, Government of United Kingdom, Government of United States of America;Government of Iraq;7927;Iraq
+937;1989;Government of India;ABSU;72;India
+938;1990;Government of India;ABSU;25;India
+939;1994;Government of India;NDFB;36;India
+940;1996;Government of India;NDFB;25;India
+941;1997;Government of India;NDFB;34;Bhutan, India
+942;1998;Government of India;NDFB;31;India
+943;1999;Government of India;NDFB;33;India
+944;2001;Government of India;NDFB;77;India
+945;2002;Government of India;NDFB;44;India
+946;2003;Government of India;NDFB;109;India
+947;2004;Government of India;NDFB;27;India
+948;2009;Government of India;NDFB - RD;73;India
+949;2010;Government of India;NDFB - RD;57;India
+950;2013;Government of India;NDFB-S;28;India
+951;2014;Government of India;NDFB-S;39;India
+952;1997;Government of Myanmar (Burma);UWSA;130;Myanmar (Burma)
+953;2003;Government of Thailand;Patani insurgents;26;Thailand
+954;2004;Government of Thailand;Patani insurgents;164;Thailand
+955;2005;Government of Thailand;Patani insurgents;205;Thailand
+956;2006;Government of Thailand;Patani insurgents;212;Thailand
+957;2007;Government of Thailand;Patani insurgents;197;Thailand
+958;2008;Government of Thailand;Patani insurgents;130;Thailand
+959;2009;Government of Thailand;Patani insurgents;138;Thailand
+960;2010;Government of Thailand;Patani insurgents;75;Thailand
+961;2011;Government of Thailand;Patani insurgents;142;Thailand
+962;2012;Government of Thailand;Patani insurgents;131;Thailand
+963;2013;Government of Thailand;Patani insurgents;189;Thailand
+964;2014;Government of Thailand;Patani insurgents;68;Thailand
+965;2015;Government of Thailand;Patani insurgents;53;Thailand
+966;2004;Government of Nigeria;Ahlul Sunnah Jamaa;61;Nigeria
+967;2004;Government of Nigeria;NDPVF;67;Nigeria
+968;1990;Government of Israel;Hezbollah;42;Lebanon
+969;1991;Government of Israel;Hezbollah;28;Lebanon
+970;1992;Government of Israel;Hezbollah;87;Argentina, Israel, Lebanon
+971;1993;Government of Israel;Hezbollah;124;Israel, Lebanon
+972;1994;Government of Israel;Hezbollah;82;Lebanon
+973;1995;Government of Israel;Hezbollah;74;Israel, Lebanon
+974;1996;Government of Israel;Hezbollah;95;Israel, Lebanon
+975;1997;Government of Israel;Hezbollah;82;Lebanon
+976;1998;Government of Israel;Hezbollah;54;Lebanon
+977;1999;Government of Israel;Hezbollah;41;Lebanon
+978;2006;Government of Israel;Hezbollah;825;Israel, Lebanon
+979;2008;Government of DR Congo (Zaire);BDK;250;DR Congo (Zaire)
+980;2007;Government of DR Congo (Zaire);BDK;116;DR Congo (Zaire)
+981;2008;Government of Niger;MNJ;47;Niger
+982;1992;Government of Niger;FLAA;29;Niger
+983;1991;Government of Niger;FLAA;40;Niger
+984;1997;Government of Niger;UFRA;62;Niger
+985;2007;Government of Niger;MNJ;81;Niger
+986;2007;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;30;Russia (Soviet Union)
+987;2008;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;404;Russia (Soviet Union)
+988;2009;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;696;Russia (Soviet Union)
+989;2010;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;418;Russia (Soviet Union)
+990;2011;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;359;Russia (Soviet Union), Turkey
+991;2012;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;516;Russia (Soviet Union)
+992;2013;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;321;Russia (Soviet Union)
+993;2014;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;167;Russia (Soviet Union)
+994;2015;Government of Russia (Soviet Union);Forces of the Caucasus Emirate;30;Russia (Soviet Union), Syria
+995;2008;Government of India;PULF;25;India
+996;2008;Government of Djibouti;Government of Eritrea;35;Djibouti
+997;1997;Government of India;KNF;63;India
+998;2009;Government of Myanmar (Burma);MNDAA;80;China, Myanmar (Burma)
+999;2014;Government of Myanmar (Burma);MNDAA;67;Myanmar (Burma)
+1000;2015;Government of Myanmar (Burma);MNDAA;309;China, Myanmar (Burma)
+1001;2010;Government of Mauritania;AQIM;29;Mali, Mauritania
+1002;2011;Government of Mauritania;AQIM;26;Mali, Mauritania
+1003;1991;Government of Ethiopia;IGLF;100;Ethiopia
+1004;2011;Government of Sudan;Republic of South Sudan;145;Sudan
+1005;2011;Government of South Sudan;SSDM/A, SSLM/A;210;South Sudan
+1006;2012;Government of South Sudan;SSLM/A;137;South Sudan
+1007;2013;Government of South Sudan;SPLM/A In Opposition, SSDM/A - Cobra Faction;926;South Sudan
+1008;2014;Government of South Sudan;SPLM/A In Opposition;1667;South Sudan
+1009;2015;Government of South Sudan;SPLM/A In Opposition;480;South Sudan
+1010;2011;Government of Libya;Forces of Muammar Gaddafi, NTC;1930;Libya
+1011;2014;Government of Libya;Forces of the House of Representatives, Zintan Brigades;322;Libya
+1012;2015;Government of Libya;Forces of the House of Representatives;156;Libya
+1013;2012;Government of India;GNLA;27;India
+1014;2014;Government of India;GNLA;26;India
+1015;2008;Government of China;ETIM;36;China
+1016;2009;Government of Mali;AQIM;87;Mali
+1017;2012;Government of Mali;Ansar Dine, Military faction (Red Berets);87;Mali
+1018;2013;Government of Mali;AQIM, Ansar Dine, MUJAO, Signed-in-Blood Battalion;834;Mali, Mali, Niger
+1019;2014;Government of Mali;AQIM, al-Murabitun;95;Mali
+1020;2015;Government of Mali;AQIM;34;Mali
+1021;2005;Government of Bangladesh;PBCP, PBCP-J;62;Bangladesh
+1022;2006;Government of Bangladesh;PBCP-J;57;Bangladesh
+1023;2012;Government of South Sudan;Government of Sudan;367;South Sudan, Sudan
+1024;1991;Government of Myanmar (Burma);NSCN-K;150;Myanmar (Burma)
+1025;1995;Government of Myanmar (Burma);NSCN-K;33;Myanmar (Burma)
+1026;2000;Government of Myanmar (Burma);NSCN-K;43;India, Myanmar (Burma)
+1027;2001;Government of Myanmar (Burma);NSCN-K;62;Myanmar (Burma)
+1028;2005;Government of Myanmar (Burma);NSCN-K;38;Myanmar (Burma)
+1029;2006;Government of Myanmar (Burma);NSCN-K;92;Myanmar (Burma)
+1030;2007;Government of Myanmar (Burma);NSCN-K;215;Myanmar (Burma)
+1031;2013;Government of Malaysia;Sultanate of Sulu;70;Malaysia, Philippines
+1032;2013;Government of Myanmar (Burma);PSLF;29;Myanmar (Burma)
+1033;2014;Government of Myanmar (Burma);PSLF;37;Myanmar (Burma)
+1034;2015;Government of Myanmar (Burma);PSLF;106;Myanmar (Burma)
+1035;2014;Government of Ukraine;Maidan;88;Ukraine
+1036;2014;Government of Ukraine;Donetsk People's Republic;1996;Ukraine
+1037;2014;Government of Ukraine;Lugansk People's Republic;712;Russia (Soviet Union), Ukraine
+1038;2014;Government of Ukraine;United Armed Forces of Novorossiya;1558;Ukraine
+1039;2015;Government of Ukraine;United Armed Forces of Novorossiya;1304;Ukraine
+1040;2012;Government of Syria;PYD;25;Syria
+1041;2013;Government of Syria;PYD;36;Syria
+1042;2015;Government of Syria;PYD;61;Syria
+1043;2015;Government of Russia (Soviet Union);IS;55;Russia (Soviet Union)
+1044;2013;Government of Syria;IS;526;Syria
+1045;2014;Government of Syria;IS;1619;Syria
+1046;2015;Government of Syria;IS;11075;Syria
+1047;2015;Government of Mali;FLM;41;Mali
+1048;2015;Government of Afghanistan;IS;674;Afghanistan
+1049;2015;Government of Cameroon;IS;212;Cameroon
+1050;2015;Government of Niger;IS;171;Niger
+1051;2015;Government of Chad;IS;272;Chad
+1052;2015;Government of Nigeria;IS;1916;Nigeria
+1053;2015;Government of Yemen (North Yemen);IS;246;Yemen (North Yemen)
+1054;2015;Government of Kenya;Al-Shabaab;39;Kenya, Somalia
+1055;2015;Government of Egypt;IS;750;Egypt
+1056;2015;Government of India;UNLFW;161;India
+1057;2014;Government of Lebanon;IS;126;Lebanon
+1058;2015;Government of Lebanon;IS;76;Lebanon
+1059;2015;Government of Libya;IS;118;Libya
+1060;2001;Government of Afghanistan;Government of United States of America, Government of United Kingdom;1490;Afghanistan

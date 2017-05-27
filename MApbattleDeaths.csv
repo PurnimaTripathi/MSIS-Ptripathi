@@ -1,0 +1,1062 @@
+;Year;LocationInc;BdHigh
+0;1993;Iran;110
+1;1996;Iran;29
+2;1990;Iran;335
+3;1989;Philippines;885
+4;1990;Philippines;1174
+5;1991;Philippines;1933
+6;1992;Philippines;454
+7;1993;Philippines;114
+8;1994;Philippines;73
+9;1995;Philippines;41
+10;1997;Philippines;32
+11;1999;Philippines;98
+12;2000;Philippines;140
+13;2001;Philippines;299
+14;2002;Philippines;291
+15;2003;Philippines;236
+16;2004;Philippines;344
+17;2005;Philippines;243
+18;2006;Philippines;1018
+19;2007;Philippines;1077
+20;2008;Philippines;217
+21;2009;Philippines;400
+22;2010;Philippines;352
+23;2011;Philippines;210
+24;2012;Philippines;193
+25;2013;Philippines;170
+26;2014;Philippines;199
+27;2015;Philippines;173
+28;1989;India, Pakistan;25
+29;1990;India, Pakistan;25
+30;1991;India, Pakistan;168
+31;1992;India, Pakistan;33
+32;1996;India, Pakistan;25
+33;1997;India, Pakistan;55
+34;1998;India, Pakistan;25
+35;1999;India, Pakistan;1460
+36;2000;India, Pakistan;25
+37;2001;India, Pakistan;25
+38;2002;India, Pakistan;34
+39;2003;India, Pakistan;272
+40;2014;India, Pakistan;64
+41;2015;India, Pakistan;31
+42;1989;Paraguay;300
+43;1989;Myanmar (Burma);1355
+44;1990;Myanmar (Burma);428
+45;1991;Myanmar (Burma);672
+46;1992;Myanmar (Burma);1275
+47;1994;Myanmar (Burma);25
+48;1995;Myanmar (Burma);110
+49;1997;Myanmar (Burma);41
+50;1998;Myanmar (Burma);36
+51;2000;Myanmar (Burma);114
+52;2001;Myanmar (Burma);36
+53;2002;Myanmar (Burma);121
+54;2003;Myanmar (Burma);44
+55;2004;Myanmar (Burma);28
+56;2005;Myanmar (Burma);46
+57;2006;Myanmar (Burma);105
+58;2007;Myanmar (Burma);106
+59;2008;Myanmar (Burma);36
+60;2009;Myanmar (Burma);78
+61;2010;Myanmar (Burma);125
+62;2011;Myanmar (Burma);1467
+63;2013;Myanmar (Burma);41
+64;1992;Myanmar (Burma);25
+65;1994;Myanmar (Burma);25
+66;1990;Myanmar (Burma);25
+67;1991;Myanmar (Burma);25
+68;1994;Myanmar (Burma);109
+69;1991;Myanmar (Burma);25
+70;1996;Myanmar (Burma);80
+71;1990;Myanmar (Burma);112
+72;1991;India;78
+73;1992;India;502
+74;1993;India;193
+75;1994;India;68
+76;1996;India;173
+77;1997;India;85
+78;1998;India;111
+79;1999;India;130
+80;2000;India;201
+81;2001;India;173
+82;2002;India;189
+83;2003;India;66
+84;2004;India;102
+85;2005;India;241
+86;2006;India;607
+87;2007;India;402
+88;2008;India;432
+89;2009;India;654
+90;2010;India;665
+91;2011;India;342
+92;2012;India;274
+93;2013;India;231
+94;2014;India;242
+95;2015;India;199
+96;2009;Yemen (North Yemen);103
+97;2010;Yemen (North Yemen);244
+98;2011;Yemen (North Yemen);1195
+99;2012;Yemen (North Yemen);2415
+100;2013;Yemen (North Yemen);641
+101;2014;Yemen (North Yemen);2046
+102;2015;Yemen (North Yemen);7444
+103;1989;Myanmar (Burma);194
+104;1990;Myanmar (Burma);25
+105;1991;Myanmar (Burma);25
+106;1992;Myanmar (Burma);25
+107;2011;Myanmar (Burma);574
+108;2012;Myanmar (Burma);2198
+109;2013;Myanmar (Burma);143
+110;2014;Myanmar (Burma);84
+111;2015;Myanmar (Burma);222
+112;1989;Guatemala;300
+113;1990;Guatemala;114
+114;1991;Guatemala;85
+115;1992;Guatemala;95
+116;1993;Guatemala;86
+117;1994;Guatemala;39
+118;1995;Guatemala;27
+119;1989;Israel;63
+120;1990;Israel;49
+121;1991;Israel;30
+122;1992;Israel;36
+123;1993;Israel;48
+124;1994;Israel;45
+125;1995;Israel;36
+126;1996;Israel;66
+127;2000;Israel;79
+128;2001;Israel;261
+129;2002;Israel;652
+130;2003;Israel;328
+131;2004;Israel;426
+132;2005;Israel;135
+133;2006;Israel;378
+134;2007;Israel;305
+135;2008;Israel;712
+136;2009;Israel;853
+137;2010;Israel;27
+138;2011;Israel;59
+139;2012;Israel;85
+140;2014;Israel;1749
+141;1992;India;47
+142;1993;India;128
+143;1994;India;69
+144;1995;India;95
+145;1996;India;40
+146;1997;India;37
+147;2000;India;30
+148;1992;Myanmar (Burma);404
+149;1996;Myanmar (Burma);140
+150;2005;Myanmar (Burma);35
+151;1991;Iraq;237
+152;1992;Iraq;741
+153;1993;Iraq;203
+154;1994;Iraq;36
+155;1995;Iraq;650
+156;1996;Iraq;66
+157;2004;Iraq;6142
+158;2005;Iraq;3563
+159;2006;Iraq;4134
+160;2007;Iraq;2481
+161;2008;Iraq;2539
+162;2009;Iraq;1074
+163;2010;Iraq;1060
+164;2011;Iraq;959
+165;2012;Iraq;598
+166;2013;Iraq;1924
+167;2014;Iraq;14711
+168;2015;Iraq;12745
+169;1989;Lebanon;898
+170;1990;Lebanon;800
+171;1989;Laos;30
+172;1990;Laos;249
+173;1993;Myanmar (Burma);230
+174;1994;Myanmar (Burma);984
+175;1995;Myanmar (Burma);332
+176;1996;Myanmar (Burma);25
+177;1997;Myanmar (Burma);157
+178;1998;Myanmar (Burma);25
+179;1999;Myanmar (Burma);25
+180;2000;Myanmar (Burma);69
+181;2001;Myanmar (Burma);117
+182;2002;Myanmar (Burma);250
+183;2005;Myanmar (Burma);28
+184;2006;Myanmar (Burma);49
+185;2007;Myanmar (Burma);29
+186;2008;Myanmar (Burma);31
+187;2009;Myanmar (Burma);60
+188;2010;Myanmar (Burma);36
+189;2011;Myanmar (Burma);172
+190;2013;Myanmar (Burma);85
+191;2015;Myanmar (Burma);306
+192;2013;DR Congo (Zaire);113
+193;2014;DR Congo (Zaire);59
+194;1989;Ethiopia;18420
+195;1990;Ethiopia;18985
+196;1991;Ethiopia;5570
+197;1996;Nepal;46
+198;1997;Nepal;40
+199;1998;Nepal;302
+200;1999;Nepal;306
+201;2000;Nepal;295
+202;2001;Nepal;479
+203;2002;Nepal;4105
+204;2003;Nepal;1405
+205;2004;Nepal;2040
+206;2005;Nepal;1169
+207;2006;Nepal;477
+208;1989;Iraq;50
+209;1990;Iraq;94
+210;1991;Iraq;2603
+211;1992;Iraq;52
+212;1995;Iraq;302
+213;1996;Iraq;366
+214;1989;Ethiopia;5930
+215;1990;Ethiopia;30633
+216;1991;Ethiopia;6907
+217;1992;Venezuela;263
+218;1996;DR Congo (Zaire);1852
+219;1997;DR Congo (Zaire);4826
+220;1998;DR Congo (Zaire);5711
+221;1999;DR Congo (Zaire);3229
+222;2000;DR Congo (Zaire);2458
+223;2001;DR Congo (Zaire);734
+224;2006;DR Congo (Zaire);362
+225;2007;DR Congo (Zaire);553
+226;2008;DR Congo (Zaire);486
+227;2011;DR Congo (Zaire);41
+228;2012;DR Congo (Zaire);791
+229;2013;DR Congo (Zaire);1434
+230;2014;DR Congo (Zaire);99
+231;1991;Burundi;551
+232;1992;Burundi;61
+233;1994;Burundi;532
+234;1995;Burundi;526
+235;1996;Burundi;962
+236;1997;Burundi;1216
+237;1998;Burundi;740
+238;1999;Burundi;679
+239;2000;Burundi;2123
+240;2001;Burundi;2488
+241;2002;Burundi;1591
+242;2003;Burundi;1138
+243;2004;Burundi;425
+244;2005;Burundi;356
+245;2006;Burundi;141
+246;2008;Burundi;205
+247;2015;Burundi;136
+248;1989;Chad;1585
+249;1990;Chad;8932
+250;1991;Chad;68
+251;1992;Chad;1553
+252;1993;Chad;120
+253;1994;Chad;265
+254;1997;Chad;97
+255;1998;Chad;34
+256;1999;Chad;1149
+257;2000;Chad;1041
+258;2001;Chad;326
+259;2002;Chad;350
+260;2003;Chad;189
+261;2005;Chad;356
+262;2006;Chad;2623
+263;2007;Chad;380
+264;2008;Chad;1361
+265;2009;Chad;324
+266;2010;Chad;83
+267;1989;Colombia;254
+268;1990;Colombia;541
+269;1991;Colombia;754
+270;1992;Colombia;782
+271;1993;Colombia;205
+272;1994;Colombia;1134
+273;1995;Colombia;828
+274;1996;Colombia;1229
+275;1997;Colombia;670
+276;1998;Colombia;1383
+277;1999;Colombia;1425
+278;2000;Colombia;1355
+279;2001;Colombia;1340
+280;2002;Colombia;1374
+281;2003;Colombia;521
+282;2004;Colombia;1286
+283;2005;Colombia;1455
+284;2006;Colombia;514
+285;2007;Colombia;323
+286;2008;Colombia;253
+287;2009;Colombia;421
+288;2010;Colombia;425
+289;2011;Colombia;208
+290;2012;Colombia;310
+291;2013;Colombia;183
+292;2014;Colombia;113
+293;2015;Colombia;140
+294;1989;Peru;1850
+295;1990;Peru;1048
+296;1991;Peru;1277
+297;1992;Peru;1180
+298;1993;Peru;605
+299;1994;Peru;256
+300;1995;Peru;198
+301;1996;Peru;80
+302;1997;Peru;100
+303;1998;Peru;25
+304;1999;Peru;84
+305;2007;Peru;32
+306;2008;Peru;40
+307;2009;Peru;80
+308;2010;Peru;28
+309;2011;Cambodia (Kampuchea), Thailand;36
+310;2009;Nigeria;835
+311;2011;Nigeria;547
+312;2012;Nigeria;1155
+313;2013;Nigeria;1852
+314;2014;Nigeria;4904
+315;2015;Nigeria;2870
+316;2011;Syria;1124
+317;2012;Syria;30884
+318;2013;Syria;48713
+319;2014;Syria;54938
+320;2015;Syria;34951
+321;1989;Cambodia (Kampuchea);2438
+322;1990;Cambodia (Kampuchea);657
+323;1991;Cambodia (Kampuchea);451
+324;1992;Cambodia (Kampuchea);118
+325;1993;Cambodia (Kampuchea);393
+326;1994;Cambodia (Kampuchea);1126
+327;1995;Cambodia (Kampuchea);1105
+328;1996;Cambodia (Kampuchea);1007
+329;1997;Cambodia (Kampuchea);664
+330;1998;Cambodia (Kampuchea);374
+331;2000;Guinea;522
+332;2001;Guinea;778
+333;1989;Philippines;115
+334;1990;Philippines;141
+335;1993;Philippines;178
+336;1994;Philippines;213
+337;1995;Philippines;122
+338;1996;Philippines;184
+339;1997;Philippines;348
+340;1998;Philippines;93
+341;1999;Philippines;135
+342;2000;Philippines;1559
+343;2001;Philippines;797
+344;2002;Philippines;416
+345;2003;Philippines;1041
+346;2004;Philippines;99
+347;2005;Philippines;287
+348;2006;Philippines;116
+349;2007;Philippines;326
+350;2008;Philippines;546
+351;2009;Philippines;548
+352;2010;Philippines;85
+353;2011;Philippines;171
+354;2012;Philippines;138
+355;2013;Philippines;414
+356;2014;Philippines;288
+357;2015;Philippines;565
+358;1989;Sudan;5253
+359;1990;Sudan;4335
+360;1991;Sudan;4317
+361;1992;Sudan;4083
+362;1993;Sudan;942
+363;1994;Sudan;337
+364;1995;Sudan;1882
+365;1996;Sudan;2291
+366;1997;Sudan;7228
+367;1998;Sudan;5572
+368;1999;Sudan;1597
+369;2000;Sudan;3610
+370;2001;Sudan;3658
+371;2002;Sudan;3021
+372;2003;Sudan;2856
+373;2004;Sudan;4588
+374;2005;Sudan;191
+375;2006;Sudan;2719
+376;2007;Sudan;222
+377;2008;Sudan;1476
+378;2009;Sudan;370
+379;2010;Sudan;1888
+380;2011;Sudan;2185
+381;2012;Sudan;1803
+382;2013;Sudan;2701
+383;2014;Sudan;2163
+384;2015;Sudan;2373
+385;1989;Sri Lanka;517
+386;1990;Sri Lanka;61
+387;1989;Uganda;1040
+388;1990;Uganda;633
+389;1991;Uganda;853
+390;1992;Uganda;72
+391;1994;Uganda;226
+392;1995;Uganda;332
+393;1996;Uganda;1586
+394;1997;Uganda;1179
+395;1998;Uganda;1046
+396;1999;Uganda;355
+397;2000;Uganda;407
+398;2001;Uganda;237
+399;2002;Uganda;1881
+400;2003;Uganda;1100
+401;2004;Uganda;2215
+402;2005;Uganda;814
+403;2006;Uganda;318
+404;2007;Uganda;147
+405;2008;Uganda;66
+406;2009;Uganda;263
+407;2010;Uganda;138
+408;2011;Uganda;146
+409;2013;Uganda;118
+410;2014;Uganda;1033
+411;2015;Uganda;228
+412;1998;United Kingdom;29
+413;1989;United Kingdom;38
+414;1990;United Kingdom;46
+415;1991;United Kingdom;27
+416;1989;El Salvador;4953
+417;1990;El Salvador;998
+418;1991;El Salvador;93
+419;1989;Bangladesh;26
+420;1990;Bangladesh;45
+421;1991;Bangladesh;45
+422;2004;Pakistan;58
+423;2006;Pakistan;209
+424;2007;Pakistan;331
+425;2008;Pakistan;233
+426;2009;Pakistan;102
+427;2011;Pakistan;123
+428;2012;Pakistan;362
+429;2013;Pakistan;45
+430;2014;Pakistan;90
+431;2015;Pakistan;89
+432;2003;Eritrea;57
+433;1997;Eritrea;117
+434;1999;Eritrea;239
+435;1989;Angola;6283
+436;1990;Angola;4452
+437;1991;Angola;647
+438;1992;Angola;3572
+439;1993;Angola;23329
+440;1994;Angola;11087
+441;1995;Angola;522
+442;1998;Angola;1516
+443;1999;Angola;6431
+444;2000;Angola;3799
+445;2001;Angola;2447
+446;2002;Angola;461
+447;1993;Ethiopia;36
+448;1994;Ethiopia;50
+449;1996;Ethiopia;481
+450;1998;Ethiopia;90
+451;1999;Ethiopia;640
+452;2000;Ethiopia;855
+453;2001;Ethiopia;117
+454;2002;Ethiopia;637
+455;2003;Ethiopia;260
+456;2004;Ethiopia;525
+457;2005;Ethiopia;695
+458;2006;Ethiopia;818
+459;2007;Ethiopia;737
+460;2008;Ethiopia;416
+461;2009;Ethiopia;995
+462;2010;Ethiopia;1860
+463;2011;Ethiopia;379
+464;2012;Ethiopia;406
+465;2013;Ethiopia;910
+466;2014;Ethiopia;220
+467;2015;Ethiopia;138
+468;1992;Indonesia;39
+469;1997;Indonesia;79
+470;1998;Indonesia;48
+471;1999;Indonesia;30
+472;1989;Morocco;378
+473;1992;Mozambique;445
+474;2013;Mozambique;98
+475;1989;Mozambique;3750
+476;1990;Mozambique;1577
+477;1991;Mozambique;2389
+478;1989;Afghanistan;17051
+479;1990;Afghanistan;2275
+480;1991;Afghanistan;3802
+481;1992;Afghanistan;5460
+482;1993;Afghanistan;7805
+483;1994;Afghanistan;11955
+484;1995;Afghanistan;6490
+485;1996;Afghanistan;3638
+486;1997;Afghanistan;8281
+487;1998;Afghanistan;7698
+488;1999;Afghanistan;4945
+489;2000;Afghanistan;5511
+490;2001;Afghanistan;7657
+491;2002;Afghanistan;30
+492;2003;Afghanistan;984
+493;2004;Afghanistan;1245
+494;2005;Afghanistan;1992
+495;2006;Afghanistan;5543
+496;2007;Afghanistan;8365
+497;2008;Afghanistan;7189
+498;2009;Afghanistan;8054
+499;2010;Afghanistan;8451
+500;2011;Afghanistan;8292
+501;2012;Afghanistan;8539
+502;2013;Afghanistan;10172
+503;2014;Afghanistan;15718
+504;2015;Afghanistan;19795
+505;1992;India;31
+506;1997;India;72
+507;1999;India;38
+508;2000;India;64
+509;2001;India;32
+510;2002;India;40
+511;2003;India;32
+512;2004;India;26
+513;1989;Nicaragua;533
+514;1990;Nicaragua;43
+515;1989;Somalia;4504
+516;1990;Somalia;2962
+517;1991;Somalia;9005
+518;1992;Somalia;9823
+519;1993;Somalia;25
+520;1994;Somalia;614
+521;1995;Somalia;108
+522;1996;Somalia;308
+523;2001;Somalia;268
+524;2002;Somalia;207
+525;2006;Somalia;1293
+526;2007;Somalia;2050
+527;2008;Somalia;2083
+528;2009;Somalia;1755
+529;2010;Somalia;2356
+530;2011;Somalia;2259
+531;2012;Somalia;2921
+532;2013;Somalia;1755
+533;2014;Somalia;2273
+534;2015;Somalia;2413
+535;1991;Iran;45
+536;1993;Iran;152
+537;1997;Iran;38
+538;1999;Iran;35
+539;2000;Iran;77
+540;2001;Iran;149
+541;2005;Iran;37
+542;2006;Iran;123
+543;2007;Iran;210
+544;2008;Iran;265
+545;2009;Iran;148
+546;2010;Iran;74
+547;2011;Iran;241
+548;1989;Liberia;27
+549;1990;Liberia;431
+550;2000;Liberia;57
+551;2001;Liberia;341
+552;2002;Liberia;517
+553;2003;Liberia;1887
+554;1991;Spain;44
+555;1993;India;25
+556;1994;India;25
+557;1995;India;25
+558;1996;India;28
+559;1998;India;25
+560;1999;India;31
+561;2000;India;64
+562;2003;India;27
+563;2004;India;60
+564;2005;India;53
+565;2006;India;75
+566;2007;India;73
+567;2008;India;100
+568;2009;India;114
+569;1992;India;2444
+570;1993;India;360
+571;1989;India;928
+572;1990;India;1882
+573;1991;India;2739
+574;1989;Sri Lanka;145
+575;1990;Sri Lanka;4600
+576;1991;Sri Lanka;6787
+577;1992;Sri Lanka;4247
+578;1993;Sri Lanka;2347
+579;1994;Sri Lanka;746
+580;1995;Sri Lanka;5062
+581;1996;Sri Lanka;4254
+582;1997;Sri Lanka;3959
+583;1998;Sri Lanka;4420
+584;1999;Sri Lanka;2616
+585;2000;Sri Lanka;4155
+586;2001;Sri Lanka;1145
+587;2003;Sri Lanka;46
+588;2005;Sri Lanka;90
+589;2006;Sri Lanka;2845
+590;2007;Sri Lanka;3070
+591;2008;Sri Lanka;9917
+592;2009;Sri Lanka;13702
+593;2015;Cameroon;457
+594;1989;Turkey;234
+595;1990;Turkey;303
+596;1991;Turkey;310
+597;1992;Turkey;1611
+598;1993;Turkey;2412
+599;1994;Turkey;4468
+600;1995;Turkey;3951
+601;1996;Turkey;3618
+602;1997;Turkey;5419
+603;1998;Turkey;2038
+604;1999;Turkey;1468
+605;2000;Turkey;190
+606;2001;Turkey;96
+607;2002;Turkey;81
+608;2003;Turkey;82
+609;2004;Turkey;324
+610;2005;Turkey;610
+611;2006;Turkey;274
+612;2007;Turkey;509
+613;2008;Turkey;1068
+614;2009;Turkey;149
+615;2010;Turkey;431
+616;2011;Turkey;825
+617;2012;Turkey;884
+618;2013;Turkey;67
+619;2015;Turkey;1398
+620;1989;Comoros;30
+621;1996;Ethiopia;25
+622;1990;India;586
+623;1991;India;551
+624;1992;India;337
+625;1993;India;1159
+626;1994;India;1148
+627;1995;India;894
+628;1996;India;1232
+629;1997;India;555
+630;1998;India;701
+631;1999;India;876
+632;2000;India;2408
+633;2001;India;3460
+634;2002;India;1464
+635;2003;India;1302
+636;2004;India;1195
+637;2005;India;1139
+638;2006;India;728
+639;2007;India;562
+640;2008;India;518
+641;2009;India;393
+642;2010;India;437
+643;2011;India;147
+644;2012;India;144
+645;2013;India;147
+646;2014;India;221
+647;2015;India;167
+648;1990;India;30
+649;1994;India;126
+650;1995;India;78
+651;1996;India;53
+652;1997;India;119
+653;1998;India;57
+654;1999;India;58
+655;2000;India;87
+656;2001;India;124
+657;2002;India;59
+658;2003;India;58
+659;2004;India;74
+660;2005;India;78
+661;2006;India;50
+662;2007;India;120
+663;2008;India;78
+664;2009;India;65
+665;2010;India;33
+666;1990;Indonesia;127
+667;1991;Indonesia;132
+668;1999;Indonesia;258
+669;2000;Indonesia;332
+670;2001;Indonesia;306
+671;2002;Indonesia;571
+672;2003;Indonesia;1360
+673;2004;Indonesia;1055
+674;2005;Indonesia;215
+675;1989;Panama;233
+676;1989;Panama, United States of America;2001
+677;1990;Papua New Guinea;65
+678;1992;Papua New Guinea;55
+679;1993;Papua New Guinea;62
+680;1994;Papua New Guinea;26
+681;1995;Papua New Guinea;31
+682;1996;Papua New Guinea;80
+683;1989;Rumania;499
+684;1990;Iraq, Kuwait;1058
+685;1991;Iraq, Kuwait;26203
+686;1990;Mali;217
+687;1994;Mali;106
+688;2007;Mali;39
+689;2008;Mali;127
+690;2009;Mali;39
+691;2012;Mali;309
+692;2014;Mali;80
+693;2015;Mali;72
+694;1994;Niger;90
+695;1990;Rwanda;2338
+696;1991;Rwanda;1977
+697;1992;Rwanda;1390
+698;1993;Rwanda;403
+699;1994;Rwanda;1245
+700;1996;Rwanda;60
+701;1997;Rwanda;1024
+702;1998;Rwanda;1901
+703;1999;Rwanda;315
+704;2000;Rwanda;294
+705;2001;Rwanda;2074
+706;2002;Rwanda;59
+707;2009;Rwanda;2077
+708;2010;Rwanda;219
+709;2011;Rwanda;117
+710;2012;Rwanda;99
+711;1990;Senegal;58
+712;1992;Senegal;78
+713;1993;Senegal;243
+714;1995;Senegal;303
+715;1997;Senegal;319
+716;1998;Senegal;252
+717;2000;Senegal;52
+718;2001;Senegal;223
+719;2003;Senegal;39
+720;2011;Senegal;43
+721;1990;Russia (Soviet Union);63
+722;1991;Russia (Soviet Union);501
+723;1990;Russia (Soviet Union);338
+724;1990;Trinidad and Tobago;55
+725;1992;Djibouti;757
+726;1993;Djibouti;107
+727;1994;Djibouti;46
+728;1999;Djibouti;57
+729;1991;Djibouti;239
+730;1992;Georgia;101
+731;1993;Georgia;152
+732;1991;Georgia;170
+733;2004;Haiti;465
+734;1989;Haiti;57
+735;1991;Haiti;359
+736;1991;Sierra Leone;1263
+737;1992;Sierra Leone;342
+738;1993;Sierra Leone;1088
+739;1994;Sierra Leone;779
+740;1995;Sierra Leone;2052
+741;1996;Sierra Leone;735
+742;1997;Sierra Leone;1552
+743;1998;Sierra Leone;4199
+744;1999;Sierra Leone;5650
+745;2000;Sierra Leone;642
+746;2001;Sierra Leone;92
+747;1992;Turkey;66
+748;2005;Turkey;30
+749;1991;Turkey;40
+750;1991;Serbia (Yugoslavia);64
+751;1992;Serbia (Yugoslavia);122
+752;1991;Serbia (Yugoslavia);4401
+753;1991;Algeria;34
+754;1992;Algeria;336
+755;1993;Algeria;860
+756;1994;Algeria;2079
+757;1995;Algeria;6091
+758;1996;Algeria;1507
+759;1997;Algeria;2061
+760;1998;Algeria;3665
+761;1999;Algeria;1044
+762;2000;Algeria;1010
+763;2001;Algeria;866
+764;2002;Algeria;539
+765;2003;Algeria;686
+766;2004;Algeria;467
+767;2005;Algeria;262
+768;2006;Algeria;286
+769;2007;Algeria;518
+770;2008;Algeria;410
+771;2009;Algeria;674
+772;2010;Algeria;276
+773;2011;Algeria;273
+774;2012;Algeria;310
+775;2013;Algeria;165
+776;2014;Algeria;147
+777;2015;Algeria;91
+778;1991;Angola;41
+779;1994;Angola;152
+780;1996;Angola;240
+781;1997;Angola;69
+782;1998;Angola;290
+783;2002;Angola;371
+784;2004;Angola;48
+785;2007;Angola;110
+786;2009;Angola;66
+787;1991;Azerbaijan;35
+788;1992;Azerbaijan;3632
+789;1993;Azerbaijan;1801
+790;1994;Azerbaijan;3937
+791;1997;Azerbaijan;36
+792;1998;Azerbaijan;38
+793;2005;Azerbaijan;26
+794;2008;Azerbaijan;43
+795;2012;Azerbaijan;27
+796;2014;Azerbaijan;54
+797;2015;Azerbaijan;106
+798;1992;Bosnia-Herzegovina;6379
+799;1993;Bosnia-Herzegovina;4199
+800;1994;Bosnia-Herzegovina;4956
+801;1995;Bosnia-Herzegovina;2909
+802;1992;Croatia;160
+803;1993;Croatia;413
+804;1995;Croatia;2549
+805;1993;Egypt;119
+806;1994;Egypt;157
+807;1995;Egypt;199
+808;1996;Egypt;99
+809;1997;Egypt;69
+810;1998;Egypt;29
+811;2014;Egypt;184
+812;1992;Georgia;1195
+813;1993;Georgia;2563
+814;1992;Georgia;137
+815;2008;Georgia;859
+816;2004;Georgia;73
+817;1992;Moldova;632
+818;1992;Tajikistan;4144
+819;1993;Tajikistan;1596
+820;1994;Tajikistan;645
+821;1995;Tajikistan;649
+822;1996;Tajikistan;2869
+823;1997;Tajikistan;87
+824;1998;Tajikistan;617
+825;2000;Tajikistan;46
+826;2010;Tajikistan;244
+827;2011;Tajikistan;30
+828;1993;Azerbaijan;91
+829;1995;Azerbaijan;72
+830;1993;Bosnia-Herzegovina;219
+831;1994;Bosnia-Herzegovina;1026
+832;1995;Bosnia-Herzegovina;389
+833;1993;Bosnia-Herzegovina;3369
+834;1994;Bosnia-Herzegovina;335
+835;1993;Russia (Soviet Union);147
+836;1994;Mexico;445
+837;1996;Mexico;70
+838;1994;Russia (Soviet Union);338
+839;1995;Russia (Soviet Union);3896
+840;1996;Russia (Soviet Union);4027
+841;1999;Russia (Soviet Union);12068
+842;2000;Russia (Soviet Union);5329
+843;2001;Russia (Soviet Union);1032
+844;2002;Russia (Soviet Union);3509
+845;2003;Russia (Soviet Union);626
+846;2004;Russia (Soviet Union);1304
+847;2005;Russia (Soviet Union);721
+848;2006;Russia (Soviet Union);357
+849;2007;Russia (Soviet Union);217
+850;1994;Yemen (North Yemen);3253
+851;1995;Ecuador, Peru;176
+852;1990;Pakistan;70
+853;1994;Pakistan;38
+854;1995;Pakistan;55
+855;1996;Pakistan;42
+856;2007;Pakistan;740
+857;2008;Pakistan;3699
+858;2009;Pakistan;6714
+859;2010;Pakistan;6409
+860;2011;Pakistan;2909
+861;2012;Pakistan;2742
+862;2013;Pakistan;1758
+863;2014;Pakistan;3015
+864;2015;Pakistan;1989
+865;1996;Cameroon, Nigeria;57
+866;1995;Niger;34
+867;1997;Comoros;78
+868;1993;Congo;53
+869;2002;Congo;171
+870;1997;Congo;20033
+871;1998;Congo;3476
+872;1999;Congo;1541
+873;2000;Eritrea, Ethiopia;50000
+874;1998;Eritrea, Ethiopia;1980
+875;1999;Eritrea, Ethiopia;47192
+876;1998;Guinea-Bissau;702
+877;1999;Guinea-Bissau;225
+878;1998;Lesotho;69
+879;1998;Serbia (Yugoslavia);2016
+880;1999;Serbia (Yugoslavia);3074
+881;1989;Ethiopia;150
+882;1990;Ethiopia;3036
+883;1991;Ethiopia;1330
+884;1992;Ethiopia;275
+885;1994;Ethiopia;42
+886;1995;Ethiopia;402
+887;1998;Ethiopia;25
+888;1999;Ethiopia;2914
+889;2000;Ethiopia;608
+890;2001;Ethiopia;876
+891;2002;Ethiopia;1434
+892;2003;Ethiopia;76
+893;2004;Ethiopia;167
+894;2005;Ethiopia;75
+895;2006;Ethiopia;202
+896;2007;Ethiopia;361
+897;2008;Ethiopia;175
+898;2009;Ethiopia;97
+899;2010;Ethiopia;128
+900;2011;Ethiopia;174
+901;2012;Ethiopia;162
+902;2013;Ethiopia;93
+903;2015;Ethiopia;110
+904;1999;Russia (Soviet Union);125
+905;2000;Uzbekistan;482
+906;2004;Uzbekistan;50
+907;1999;Uzbekistan;76
+908;2001;Central African Republic;334
+909;2002;Central African Republic;185
+910;2006;Central African Republic;168
+911;2009;Central African Republic;69
+912;2010;Central African Republic;106
+913;2011;Central African Republic;79
+914;2012;Central African Republic;45
+915;2013;Central African Republic;498
+916;2001;Macedonia, FYR;233
+917;2001;United States of America;2032
+918;2002;United States of America;1298
+919;2003;United States of America;80
+920;2004;United States of America;952
+921;2005;United States of America;289
+922;2006;United States of America;382
+923;2007;United States of America;225
+924;2008;United States of America;377
+925;2009;United States of America;688
+926;2010;United States of America;891
+927;2011;United States of America;317
+928;2012;United States of America;313
+929;2013;United States of America;39
+930;2014;United States of America;108
+931;2015;United States of America;76
+932;2002;Ivory Coast;661
+933;2003;Ivory Coast;519
+934;2004;Ivory Coast;48
+935;2011;Ivory Coast;35
+936;2003;Australia, Iraq, United Kingdom, United States of America;13814
+937;1989;India;80
+938;1990;India;25
+939;1994;India;36
+940;1996;India;27
+941;1997;India;34
+942;1998;India;31
+943;1999;India;33
+944;2001;India;77
+945;2002;India;44
+946;2003;India;122
+947;2004;India;27
+948;2009;India;78
+949;2010;India;86
+950;2013;India;28
+951;2014;India;58
+952;1997;Myanmar (Burma);130
+953;2003;Thailand;27
+954;2004;Thailand;170
+955;2005;Thailand;212
+956;2006;Thailand;217
+957;2007;Thailand;206
+958;2008;Thailand;133
+959;2009;Thailand;138
+960;2010;Thailand;78
+961;2011;Thailand;148
+962;2012;Thailand;132
+963;2013;Thailand;192
+964;2014;Thailand;72
+965;2015;Thailand;54
+966;2004;Nigeria;68
+967;2004;Nigeria;137
+968;1990;Israel;45
+969;1991;Israel;31
+970;1992;Israel;120
+971;1993;Israel;186
+972;1994;Israel;120
+973;1995;Israel;85
+974;1996;Israel;103
+975;1997;Israel;90
+976;1998;Israel;56
+977;1999;Israel;42
+978;2006;Israel;1126
+979;2008;DR Congo (Zaire);293
+980;2007;DR Congo (Zaire);116
+981;2008;Niger;104
+982;1992;Niger;29
+983;1991;Niger;150
+984;1997;Niger;62
+985;2007;Niger;97
+986;2007;Russia (Soviet Union);56
+987;2008;Russia (Soviet Union);453
+988;2009;Russia (Soviet Union);794
+989;2010;Russia (Soviet Union);634
+990;2011;Russia (Soviet Union);518
+991;2012;Russia (Soviet Union);723
+992;2013;Russia (Soviet Union);535
+993;2014;Russia (Soviet Union);295
+994;2015;Russia (Soviet Union);33
+995;2008;India;25
+996;2008;Djibouti, Eritrea;44
+997;1997;India;63
+998;2009;Myanmar (Burma);270
+999;2014;Myanmar (Burma);107
+1000;2015;Myanmar (Burma);2383
+1001;2010;Mauritania;41
+1002;2011;Mauritania;50
+1003;1991;Ethiopia;100
+1004;2011;Sudan;145
+1005;2011;South Sudan;320
+1006;2012;South Sudan;137
+1007;2013;South Sudan;2318
+1008;2014;South Sudan;2993
+1009;2015;South Sudan;509
+1010;2011;Libya;3463
+1011;2014;Libya;322
+1012;2015;Libya;190
+1013;2012;India;27
+1014;2014;India;32
+1015;2008;China;39
+1016;2009;Mali;93
+1017;2012;Mali;270
+1018;2013;Mali;1002
+1019;2014;Mali;129
+1020;2015;Mali;34
+1021;2005;Bangladesh;68
+1022;2006;Bangladesh;58
+1023;2012;South Sudan, Sudan;1099
+1024;1991;Myanmar (Burma);150
+1025;1995;Myanmar (Burma);33
+1026;2000;Myanmar (Burma);43
+1027;2001;Myanmar (Burma);62
+1028;2005;Myanmar (Burma);38
+1029;2006;Myanmar (Burma);97
+1030;2007;Myanmar (Burma);215
+1031;2013;Malaysia;122
+1032;2013;Myanmar (Burma);30
+1033;2014;Myanmar (Burma);203
+1034;2015;Myanmar (Burma);181
+1035;2014;Ukraine;107
+1036;2014;Ukraine;2225
+1037;2014;Ukraine;1027
+1038;2014;Ukraine;1635
+1039;2015;Ukraine;1363
+1040;2012;Syria;40
+1041;2013;Syria;106
+1042;2015;Syria;62
+1043;2015;Russia (Soviet Union);57
+1044;2013;Syria;811
+1045;2014;Syria;1715
+1046;2015;Syria;11349
+1047;2015;Mali;56
+1048;2015;Afghanistan;865
+1049;2015;Cameroon;244
+1050;2015;Niger;338
+1051;2015;Chad;272
+1052;2015;Nigeria;2950
+1053;2015;Yemen (North Yemen);251
+1054;2015;Kenya;112
+1055;2015;Egypt;877
+1056;2015;India;192
+1057;2014;Lebanon;126
+1058;2015;Lebanon;135
+1059;2015;Libya;121
+1060;2001;Afghanistan;2259
